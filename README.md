@@ -46,7 +46,7 @@ FlinkStarTransformer.java - потоковая обработка:
 
 ###  4. Инструкция по запуску
 
-```bash
+bash
 docker-compose up --build
 Проверка работы producer
 
