@@ -12,7 +12,6 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 fake = Faker()
 
-# Константы
 KAFKA_TOPIC = 'input-topic'
 KAFKA_BOOTSTRAP_SERVERS = 'kafka:9092'  # Внутри Docker сети
 
@@ -95,11 +94,11 @@ def send_data_to_kafka():
         
         for idx, row in df.iterrows():
             message = row.to_dict()
-            # Конвертируем numpy типы в Python типы
+
             message = {k: (v.item() if hasattr(v, 'item') else v) for k, v in message.items()}
             
             try:
-                # Отправляем с ключом для лучшего распределения
+            
                 future = producer.send(KAFKA_TOPIC, key=str(idx).encode(), value=message)
                 future.get(timeout=2)
                 total_messages += 1
