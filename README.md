@@ -46,16 +46,16 @@ FlinkStarTransformer.java - потоковая обработка:
 
 ###  4. Инструкция по запуску
 
-### Шаг 1: Запуск всех сервисов
 ```bash
 docker-compose up --build
-Шаг 2: Проверка работы producer
+Проверка работы producer
 
 В логах должно появиться:
 
 text
 data-producer |  Done! Sent 10000 messages to Kafka topic 'input-topic'
-Шаг 3: Запуск Flink задачи (в новом терминале)
+
+Запуск Flink задачи 
 
 bash
 docker exec -it flink-jobmanager bash
@@ -72,7 +72,7 @@ docker exec -it postgres_db psql -U flink_user -d star_db -c "SELECT COUNT(*) FR
 
 Скриншот 1: Общее количество записей (10 000)
 
-screenshots/screenshot1_count.jpg
+https://screenshots/screenshot1_count.jpg
 
 Скриншот 2: Пример данных из fact_sales
 
