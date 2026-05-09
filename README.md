@@ -72,7 +72,7 @@ docker exec -it postgres_db psql -U flink_user -d star_db -c "SELECT COUNT(*) FR
 
 Скриншот 1: Общее количество записей (10 000)
 
-https://screenshots/screenshot1_count.jpg
+screenshots/screenshot1_count.jpg
 
 Скриншот 2: Пример данных из fact_sales
 
