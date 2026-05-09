@@ -1,0 +1,1001 @@
+transaction_id,product_id,product_name,category,customer_id,customer_name,city,store_id,sale_amount,sale_timestamp
+TXN_8_0_a99c4c23,44,Fear hit,Sports,7775,Laurie Gallegos,Schwartzstad,7,766.9,2026-04-29T19:32:03.167129
+TXN_8_1_1f6744f5,83,Subject argue,Sports,5940,Tracy Mack,New Michael,20,728.75,2026-03-16T17:02:42.204347
+TXN_8_2_7691194b,29,Ready hope,Sports,5589,Roger Thomas,Camposside,19,76.1,2026-02-03T15:52:24.902169
+TXN_8_3_80af1e85,73,College hotel,Food,5095,William Walton,South Jefferyville,13,880.78,2026-02-07T01:08:08.452880
+TXN_8_4_e0418076,44,Life military,Books,8650,Alexandria Kim,Port Dawnmouth,4,980.98,2026-03-19T04:13:19.312252
+TXN_8_5_09f8bb11,53,Cell available,Clothing,1650,Tina Bowman,Aguilarhaven,10,876.89,2026-04-02T17:02:01.192091
+TXN_8_6_9888f65b,42,Indicate surface,Electronics,1022,Valerie Holloway,South Davidstad,12,397.24,2026-04-13T07:00:22.806238
+TXN_8_7_76fbea3d,25,Do send,Electronics,6391,Gary Cox,Stewartport,16,308.91,2026-04-30T11:18:40.879730
+TXN_8_8_f1139f2f,97,Building impact,Sports,9711,Mr. Jonathon Austin DDS,Williamstad,8,293.62,2026-01-26T13:59:20.208251
+TXN_8_9_c872a700,28,Avoid town,Sports,3039,Carmen Rogers,South Shawn,1,944.92,2026-03-04T21:36:22.930591
+TXN_8_10_6cca947c,53,Answer gas,Sports,4818,Richard Garcia,Lake Gabrielside,3,990.24,2026-04-25T07:59:00.990133
+TXN_8_11_d8b83916,97,Bill region,Electronics,6996,Amy Thompson,Martinezchester,6,262.0,2026-03-28T10:09:11.489057
+TXN_8_12_cb51fc7a,41,Phone clearly,Electronics,5060,Kim Smith,South Jacqueline,4,868.27,2026-04-21T11:21:57.019588
+TXN_8_13_bd895200,57,Could style,Electronics,2149,Amy Hill,South Steven,17,403.19,2026-04-19T18:00:25.313244
+TXN_8_14_cd71f7d4,81,Speech generation,Books,9253,Heather Brooks,South Samantha,11,532.73,2026-02-20T11:48:51.251539
+TXN_8_15_eda84285,34,Per course,Books,7229,Tricia Cook,Erikberg,12,748.39,2026-04-21T12:13:26.685676
+TXN_8_16_5b0de473,99,House debate,Sports,4736,Desiree Sanders,Port Kimberlymouth,20,201.13,2026-03-16T15:48:36.342366
+TXN_8_17_599d1882,58,Property dog,Clothing,2098,Chelsea Turner,Loriview,13,567.65,2026-03-16T22:08:19.394964
+TXN_8_18_1f2afb77,77,Space total,Electronics,9897,Cynthia Hall,Watsonton,8,257.44,2026-02-12T17:51:27.315824
+TXN_8_19_fc1dbaa3,13,Same fly,Food,7903,William Bennett,Jasonland,11,519.04,2026-01-14T08:00:33.308006
+TXN_8_20_d559ffe6,20,Station bank,Electronics,5090,Mark Mcdonald MD,North Elizabethstad,9,231.43,2026-05-06T05:55:23.770215
+TXN_8_21_545368cf,70,Reason take,Food,1523,Laura Morrison,Christopherfort,1,355.07,2026-04-28T14:12:01.707144
+TXN_8_22_1bc787b2,89,Blue Mr,Food,1936,Laurie Erickson,New Rodneybury,11,202.63,2026-03-15T19:03:32.607404
+TXN_8_23_5e3f17eb,18,Health phone,Sports,1557,Gerald Gibson,North Jimtown,14,220.27,2026-04-30T00:15:49.626329
+TXN_8_24_e38f1c00,67,Father say,Books,8115,Jason Anderson,Port Wandatown,17,541.72,2026-03-15T06:46:47.884194
+TXN_8_25_4e55f0d9,65,Really mention,Electronics,9805,Kevin Snyder,New Diana,10,721.28,2026-01-30T00:28:20.125232
+TXN_8_26_50067a77,42,Per ago,Electronics,7980,Ryan Short,West Marcus,4,44.94,2026-04-04T09:58:45.696582
+TXN_8_27_151409ca,70,Management before,Books,2971,Matthew Villarreal,Jamesland,2,131.95,2026-03-17T02:30:35.692933
+TXN_8_28_d869ab83,13,Total right,Electronics,1291,Chad Dixon,Port Pamelatown,7,176.82,2026-03-23T20:57:50.416905
+TXN_8_29_bb0945d2,94,Song it,Electronics,2788,Michael Foley,Williamshire,9,127.56,2026-01-05T16:04:23.354104
+TXN_8_30_98d3aa93,12,Decide radio,Clothing,5226,Bruce Mckay,Powellborough,14,165.46,2026-01-29T17:58:04.606552
+TXN_8_31_0cd8ad0b,91,Most image,Sports,7231,Jesus Fernandez,Port Amychester,9,587.59,2026-04-14T18:06:42.940014
+TXN_8_32_8f6b5f58,64,Order join,Electronics,9281,Joseph Vazquez,East Robertview,2,764.95,2026-03-03T18:43:22.841825
+TXN_8_33_af59bebe,53,Move relationship,Sports,2602,Monica Perez,Karenville,4,90.04,2026-04-15T12:31:36.187011
+TXN_8_34_5c8db1ca,89,Trade always,Food,5567,Adam Williams,Larsonside,18,186.8,2026-04-04T02:42:20.045964
+TXN_8_35_66da07ea,45,Little peace,Sports,6867,Dr. Martin Love,Youngbury,11,785.15,2026-01-10T05:52:04.938165
+TXN_8_36_5165ae8a,79,Get current,Food,6616,Matthew Campbell,Michaelborough,19,932.47,2026-02-23T21:54:32.114411
+TXN_8_37_ac26a7c4,72,Develop chair,Clothing,8990,Brandon Hall,Smithfurt,1,678.82,2026-01-31T18:47:57.983441
+TXN_8_38_fc7240b4,100,Manager west,Sports,4323,Kyle Walker,Obrienhaven,13,302.82,2026-01-10T15:54:15.749278
+TXN_8_39_7b4ad93c,66,Between painting,Clothing,7052,Maria Pacheco,Davidstad,6,681.96,2026-03-13T06:34:14.189950
+TXN_8_40_8fe8d8e0,49,Paper energy,Sports,1712,Cesar Wilson,West Brandon,8,305.62,2026-02-13T22:31:46.477525
+TXN_8_41_8f24b096,75,Pm us,Clothing,6016,Kelly Williams,Kayleeborough,1,751.77,2026-02-15T19:18:58.961926
+TXN_8_42_3037aec3,70,Inside involve,Electronics,7465,Holly Williams,New Michelle,16,476.49,2026-02-24T02:38:01.362317
+TXN_8_43_0db1c070,99,Almost develop,Sports,3867,Sarah Singleton,Marthatown,4,123.49,2026-01-24T02:42:23.123460
+TXN_8_44_35d48f54,60,Like air,Sports,4146,Troy Johnson,Wardfort,16,877.33,2026-03-22T19:13:38.081634
+TXN_8_45_e86d0e44,94,Involve energy,Clothing,9847,Helen Hunter,East Tiffanyland,4,681.26,2026-01-11T05:22:38.035736
+TXN_8_46_90a97bfc,95,Hair notice,Books,3381,Rebecca Golden,Port Brian,1,180.49,2026-03-23T13:10:52.284051
+TXN_8_47_e247dd84,50,Along sure,Electronics,2114,Michael Rivera,Jessicaton,13,852.5,2026-03-29T19:27:39.856955
+TXN_8_48_ad42bca2,36,Shoulder imagine,Sports,6915,Mark Sanchez,Kennethshire,1,618.98,2026-01-01T15:15:01.649196
+TXN_8_49_951cbcce,43,Grow prepare,Food,7849,Darrell Hicks,Jacobsside,20,468.78,2026-02-04T04:38:15.393475
+TXN_8_50_0d0e355d,97,Water they,Clothing,7358,Alexa Cervantes,Joelshire,7,487.63,2026-04-23T08:02:30.982423
+TXN_8_51_408ad72b,53,Try use,Books,7037,Brett Mills,Port Shaneburgh,20,662.3,2026-03-31T21:30:31.277020
+TXN_8_52_7a99a1eb,28,Rise value,Books,2314,Jeremy Taylor,Williamsmouth,15,830.11,2026-02-12T09:59:25.756616
+TXN_8_53_08a41588,29,Discussion blood,Sports,6559,Miss Tracy Velazquez,Smithside,10,94.07,2026-04-08T05:00:35.619045
+TXN_8_54_168ddec6,86,Usually development,Clothing,9835,Christopher Ross,Jennifermouth,15,595.28,2026-03-04T03:32:21.246867
+TXN_8_55_e939a079,2,Young wrong,Electronics,2855,Richard Patton,Jenniferchester,6,431.81,2026-03-10T10:35:48.246794
+TXN_8_56_9ce16fd4,13,General by,Books,4225,Casey Peterson,New Michaelborough,10,318.04,2026-03-07T13:32:05.098837
+TXN_8_57_d3eaa761,81,Few standard,Food,8762,Erin Stewart,Port Summer,12,189.83,2026-04-21T08:47:09.859498
+TXN_8_58_49f670c8,41,Clearly prevent,Food,3210,Eric Estrada,East Scott,12,148.77,2026-03-28T14:12:17.964682
+TXN_8_59_0dc6fbe9,20,Left get,Food,9804,Mr. Scott Carter,North Madeline,18,329.02,2026-02-15T00:56:16.096327
+TXN_8_60_2de565dc,76,Stay everybody,Electronics,9896,Veronica Chavez,Elliottmouth,19,955.0,2026-04-28T11:39:07.219673
+TXN_8_61_4f17a9b2,88,Why effect,Electronics,6941,Nancy Reed,Port Mitchell,6,146.48,2026-01-01T00:29:56.038446
+TXN_8_62_ffb35ce8,54,Second building,Food,9784,David Ramos,Jenniferport,5,290.73,2026-03-07T21:24:28.941150
+TXN_8_63_5ec04722,92,Deep agree,Books,1819,Steve Ward,Elizabethmouth,20,333.65,2026-02-15T20:56:28.814718
+TXN_8_64_63a24146,74,Energy condition,Food,7406,Kenneth White,Port Elizabeth,11,772.44,2026-02-16T11:35:27.287778
+TXN_8_65_c102f81b,84,Well forward,Sports,9766,Dana Nelson,Carlyfort,2,640.54,2026-04-30T21:42:57.950986
+TXN_8_66_b2b49b94,26,Stock traditional,Food,2219,Craig Martinez,South Benjamin,15,743.87,2026-03-15T08:29:49.176132
+TXN_8_67_0e2b9a0f,52,Father difference,Clothing,1895,Jeffrey Henry,South Melissaside,14,608.65,2026-03-13T11:20:38.215414
+TXN_8_68_f95753aa,43,Hope bank,Electronics,3396,Kayla Dorsey,Lucasburgh,13,610.69,2026-01-11T13:11:04.089887
+TXN_8_69_b1fe9061,45,Son find,Clothing,6165,Raymond Hill,Victoriaborough,10,727.11,2026-01-27T11:18:15.060880
+TXN_8_70_2a7f2af0,58,Campaign group,Books,9332,Jacob Miller,Makaylamouth,18,659.87,2026-05-08T07:20:46.353566
+TXN_8_71_2acd753f,26,Mrs popular,Electronics,7994,Amy Walker,East Kevinton,16,895.26,2026-02-24T16:15:46.465821
+TXN_8_72_aa7b20b2,43,Best person,Electronics,2499,Lorraine Martinez,West Jorge,8,291.21,2026-01-15T21:41:12.909235
+TXN_8_73_9b4609f1,84,Boy become,Electronics,5451,Tammy Torres,New Colton,11,667.82,2026-03-28T23:33:08.768837
+TXN_8_74_4b0246d8,31,Account through,Books,7367,Matthew Francis,Williamsfurt,19,440.04,2026-01-17T16:26:39.430961
+TXN_8_75_44314a24,5,Better media,Clothing,7996,William Johnson,West Jamiebury,1,591.32,2026-03-02T07:28:31.442027
+TXN_8_76_599d976d,26,True foot,Food,7839,Debra White,Knappberg,1,817.39,2026-02-08T21:13:36.791471
+TXN_8_77_36f95b15,24,Challenge too,Clothing,7075,Richard James,Andersonshire,20,509.47,2026-04-24T19:44:02.812972
+TXN_8_78_7b28a329,77,Level score,Books,5573,Leslie Murphy,Amberside,7,795.51,2026-04-10T02:14:51.462064
+TXN_8_79_007a12a9,42,Election foot,Food,5146,Heather Parsons,Mooremouth,6,306.93,2026-03-17T13:13:34.902879
+TXN_8_80_b266ad82,67,Left man,Clothing,4868,Michael Thomas,Randymouth,2,600.72,2026-01-05T22:54:26.603669
+TXN_8_81_3c7b8784,62,Unit special,Clothing,5563,Nicole Blackburn,Cochranfort,13,172.78,2026-03-08T21:20:27.780676
+TXN_8_82_b39222b7,47,Leave always,Food,2464,Stephanie Padilla,Catherineside,3,125.99,2026-05-01T08:01:31.939934
+TXN_8_83_d9a6a35f,54,Everyone ball,Sports,8051,Diana Miller,West Dawn,15,143.45,2026-01-24T04:53:50.559216
+TXN_8_84_5150553d,47,Quickly one,Electronics,6135,Matthew Meyer,Port Brian,7,217.0,2026-05-05T12:57:19.439753
+TXN_8_85_bd200f86,83,Student weight,Sports,3439,Jennifer Roberts,Williamside,15,532.5,2026-05-01T13:41:20.442781
+TXN_8_86_ac5b86c3,54,Factor likely,Clothing,8684,Louis Miller,Lake Katieport,14,606.63,2026-02-20T07:17:44.454110
+TXN_8_87_3141b446,37,Firm low,Books,9143,Julian Taylor,Port Bethborough,17,437.68,2026-04-19T00:35:10.338892
+TXN_8_88_08466825,34,Coach ahead,Sports,6464,Susan Smith,South Codyton,20,334.73,2026-04-06T08:50:54.605742
+TXN_8_89_9bd7118a,38,Responsibility my,Electronics,3797,Stephen Morales,New Sandra,18,264.91,2026-01-12T00:52:16.074395
+TXN_8_90_21ca2ecf,11,Technology would,Books,8456,Patrick Brown,Jasonshire,5,82.13,2026-02-27T03:20:42.929148
+TXN_8_91_853e57ef,34,President role,Clothing,1446,Cody Graham,Mackport,13,35.98,2026-04-01T23:38:28.800597
+TXN_8_92_a8482b7d,25,Phone about,Electronics,9617,Megan Davis,West Stephanie,1,619.13,2026-03-28T01:11:21.254208
+TXN_8_93_63e86e36,88,Power phone,Clothing,9317,Pamela Adams,North Carolbury,18,385.55,2026-01-31T18:22:34.363796
+TXN_8_94_7b22dd72,57,Right century,Books,1336,Matthew Simpson MD,New Daniel,13,902.21,2026-04-14T21:05:38.416362
+TXN_8_95_ac72f3d0,53,Pay security,Sports,5221,Lydia Maldonado,East Jacquelinechester,15,125.44,2026-01-25T17:58:04.595875
+TXN_8_96_d54c17e1,40,Environmental indeed,Clothing,4664,Denise Lucero,West Shaun,19,86.55,2026-05-06T19:21:48.827780
+TXN_8_97_4790838a,18,Argue yeah,Electronics,6603,Cynthia Parker,Mcdonaldside,7,756.61,2026-02-22T11:16:59.902535
+TXN_8_98_9f143496,4,Power throw,Electronics,2690,Sarah Greene,New Aaronshire,12,788.7,2026-04-27T07:39:49.456848
+TXN_8_99_ebfb7264,21,Experience single,Books,5319,Heather Randall,South Stephen,12,765.91,2026-02-10T04:51:58.576918
+TXN_8_100_a08c9762,7,Effect beat,Food,2927,Nancy Ruiz,Cynthiabury,3,709.58,2026-03-04T17:22:14.104208
+TXN_8_101_6a274c9f,26,Pm sometimes,Sports,5011,Robert Brown,Lake Emily,11,803.49,2026-03-12T12:43:23.152439
+TXN_8_102_9569c1ad,79,Especially material,Books,5098,Deborah Garcia,Nicholsside,9,81.05,2026-01-03T08:08:07.426465
+TXN_8_103_182a43cf,6,Live include,Clothing,1693,Christopher Davis,South Rickyville,15,643.92,2026-01-27T18:19:21.606734
+TXN_8_104_571f1eb7,19,Himself far,Sports,9215,Haley Ryan,Lake Denisefort,4,56.09,2026-01-05T21:25:01.458720
+TXN_8_105_2465da57,76,Media look,Clothing,2832,David Hawkins,East Adriana,12,273.2,2026-03-24T09:08:44.348636
+TXN_8_106_fe56045a,26,Push happen,Sports,7570,Daniel Marks,Josephside,9,767.1,2026-04-07T19:56:06.606621
+TXN_8_107_da6cd164,91,Section others,Electronics,6384,Miss Brandi Schroeder PhD,Port Andrew,6,607.33,2026-03-02T20:49:44.021723
+TXN_8_108_321116c2,57,Finish wear,Books,9148,Caitlin Garcia,New Debbieburgh,10,201.27,2026-01-26T20:12:46.007822
+TXN_8_109_f0b73d0f,95,Kind early,Food,4824,Edward Stevenson PhD,Patrickfurt,12,955.95,2026-01-20T10:19:30.501367
+TXN_8_110_df6fd52f,93,Director land,Sports,3924,Thomas Bowman,West Jasmineport,6,286.41,2026-01-14T15:17:41.708934
+TXN_8_111_405f8827,11,Four anyone,Books,5691,Brian Morgan,West Craigstad,9,721.08,2026-04-10T04:33:15.749567
+TXN_8_112_ec15d74d,76,Who usually,Electronics,9724,Melissa Smith,Lake Rebecca,3,435.1,2026-04-23T03:17:41.950292
+TXN_8_113_40ffeed2,66,He herself,Electronics,8576,Donald Watson,New Steven,14,748.9,2026-02-08T20:26:48.236581
+TXN_8_114_ab834a36,41,Perform improve,Clothing,3953,Crystal Chang,Cynthiaside,1,563.06,2026-02-13T23:47:44.264563
+TXN_8_115_a6b28dc4,18,Top owner,Food,5274,Erin Dawson,Port Steven,5,144.46,2026-01-24T22:19:36.855501
+TXN_8_116_579ad5fe,84,Few question,Food,1465,David Owen,Sherribury,3,218.69,2026-02-06T15:53:08.997450
+TXN_8_117_dda59803,69,Risk understand,Clothing,2928,Gregory Graham,West Aaronmouth,8,503.08,2026-04-16T03:57:56.641563
+TXN_8_118_f6b462a1,95,Campaign war,Books,5651,Laura King DVM,West Katherine,20,331.59,2026-02-01T11:09:17.442456
+TXN_8_119_515ecaf0,2,Raise positive,Food,8349,Deborah Haas,Butlerton,4,999.58,2026-04-22T01:51:26.279903
+TXN_8_120_c5e34f53,46,Kind treatment,Books,8340,Eric Phillips,Albertbury,11,214.1,2026-01-17T08:24:00.412527
+TXN_8_121_afcbe0ee,68,War clear,Sports,1603,Tonya Barton,East Alejandraview,16,310.58,2026-04-26T22:54:46.444206
+TXN_8_122_49c04ef9,37,They rock,Food,7012,Erik Jensen,North Garybury,16,968.61,2026-03-08T11:56:06.334379
+TXN_8_123_e7894fa7,26,Fish professor,Clothing,9039,Dawn Smith,Hillberg,7,844.55,2026-03-10T20:15:17.397972
+TXN_8_124_cb691560,47,Provide reach,Food,6861,Michelle Hamilton,Patrickside,19,31.59,2026-04-07T21:42:24.399867
+TXN_8_125_dc79bd06,1,Second theory,Electronics,1224,Maureen Garza,Perezton,13,883.02,2026-03-21T15:37:49.946777
+TXN_8_126_46b725b7,27,Authority yes,Food,9520,Keith Hayden,Gonzalezville,16,507.18,2026-04-09T21:32:00.783374
+TXN_8_127_a8d8b5a0,92,Every peace,Electronics,6244,Christina Park,Hortonhaven,2,479.14,2026-02-18T05:11:53.090949
+TXN_8_128_dc5f3472,52,Audience bad,Sports,2626,Sandra Reed,Lake Markberg,1,831.31,2026-02-12T19:39:35.163711
+TXN_8_129_ecdd2c71,100,Red card,Books,8741,Paul Padilla,Jeffreymouth,4,402.89,2026-01-15T23:14:59.786291
+TXN_8_130_fdc42153,90,Painting six,Books,3974,Stephen Cook,Millerstad,3,526.73,2026-02-15T14:46:09.504546
+TXN_8_131_2d4f71c4,91,Note decide,Electronics,9340,Mark Alvarado,Sharonchester,20,377.19,2026-02-12T18:43:20.048071
+TXN_8_132_17bba384,2,Meet beyond,Food,1992,Amanda Moore,Kennedyborough,11,634.45,2026-03-25T00:25:17.925318
+TXN_8_133_0acb3bab,90,Number this,Electronics,6067,Jenna Velasquez,East Jesustown,17,48.68,2026-05-08T03:17:01.330241
+TXN_8_134_eae198b4,54,Pay protect,Books,4842,Aaron Morgan,Jasonton,9,363.3,2026-05-07T10:34:51.400789
+TXN_8_135_870ac7ee,31,Friend seat,Electronics,6516,Roy Erickson,East Debra,12,647.0,2026-03-18T11:27:18.676142
+TXN_8_136_b02d06aa,94,Adult parent,Electronics,6232,Kenneth Conner,Greenstad,2,349.43,2026-04-11T23:19:43.022525
+TXN_8_137_dd978e0c,40,Old task,Sports,7295,Shawna Irwin,New Jermainebury,17,185.44,2026-04-19T23:06:47.001842
+TXN_8_138_1da6957a,43,Number worker,Sports,7049,Theresa Hill,Port Georgeside,15,152.72,2026-04-29T02:56:06.146545
+TXN_8_139_9d376b24,30,Mission safe,Sports,4241,Kelly Huff PhD,East Randy,11,354.03,2026-01-31T02:13:03.043066
+TXN_8_140_7f802e50,16,Scientist citizen,Books,2566,Gabriel Roberts,New Lesliefort,1,532.06,2026-05-06T19:09:11.572434
+TXN_8_141_0933843d,56,Third million,Clothing,4435,Benjamin Moody,Marcmouth,5,475.59,2026-04-29T12:35:09.486050
+TXN_8_142_9971e77f,17,North manage,Sports,9654,Robert Davis,Johnsonfort,7,117.31,2026-01-10T09:25:07.521589
+TXN_8_143_b062832f,13,Also Mr,Sports,7713,Tammy Johnson,South Michele,6,773.36,2026-01-28T09:30:27.423895
+TXN_8_144_7e65ebee,40,Cultural pull,Books,1159,Shannon Smith,Terryside,1,233.59,2026-04-06T09:30:42.739208
+TXN_8_145_847c366a,93,Central five,Electronics,3689,Matthew Sullivan,Jordanhaven,1,372.35,2026-04-09T17:30:44.359773
+TXN_8_146_f4a23a66,69,Environment finish,Books,7899,Seth Hughes,Josehaven,13,912.0,2026-03-21T05:32:00.421715
+TXN_8_147_335d380f,36,Tonight senior,Sports,6094,Daniel Edwards,Williamstown,9,974.22,2026-01-10T14:09:41.225879
+TXN_8_148_dec7722f,77,Sign assume,Books,5857,Shelia May,Charlesbury,17,95.86,2026-03-31T11:45:31.448651
+TXN_8_149_4a2da8dd,12,Ground part,Clothing,8801,Amanda Sherman,Amandafort,17,494.4,2026-05-03T01:11:23.528031
+TXN_8_150_fcc520dd,57,West deal,Food,9743,Aaron David,Reedberg,6,379.98,2026-03-31T09:48:43.495821
+TXN_8_151_09d48557,60,When you,Sports,1913,Carrie Martin,Rhondaburgh,7,284.34,2026-02-16T21:12:01.434213
+TXN_8_152_05ebcbec,33,Whether will,Electronics,3164,Sherry Paul,Anthonyland,5,202.02,2026-02-01T16:52:34.922772
+TXN_8_153_d3c3ba4b,41,Professor few,Books,1079,Traci Ingram,Amyview,13,878.43,2026-05-02T19:52:47.685512
+TXN_8_154_913fb5ac,7,Produce home,Food,9908,Monica Combs,Davidhaven,5,743.71,2026-01-05T13:32:21.687701
+TXN_8_155_10fb026b,98,Election art,Electronics,8020,Kimberly Trevino,North Derek,4,311.57,2026-04-10T03:17:26.533982
+TXN_8_156_2a717d75,68,Measure discuss,Clothing,8672,Karen Wallace,North Martin,20,919.04,2026-03-12T23:07:13.798914
+TXN_8_157_89c2a7b7,61,Various author,Food,5956,Cole Lopez,Port Timothy,20,694.87,2026-02-02T20:34:05.202777
+TXN_8_158_1d3257a3,50,Until treatment,Electronics,6736,Karen Mccoy,Lauraside,2,253.23,2026-04-15T22:05:13.273636
+TXN_8_159_68270e25,8,Share small,Clothing,6306,John Miller,Tiffanychester,2,711.71,2026-01-08T07:53:33.906592
+TXN_8_160_b5e03c22,84,Per guess,Electronics,2536,Charles Davies,Jenkinsfort,6,347.99,2026-01-23T10:09:40.935145
+TXN_8_161_fbfdcdf7,54,Care compare,Clothing,8047,Christina Ponce,Annaton,2,19.87,2026-01-15T05:00:18.467932
+TXN_8_162_df56484a,86,Perhaps herself,Books,4720,Nicole Morris,South Taylorton,10,68.41,2026-03-08T18:38:08.951773
+TXN_8_163_c45a35f3,70,Market since,Sports,3647,Melody Everett,South Jeff,8,653.65,2026-05-01T03:23:07.140522
+TXN_8_164_0e5f0bec,96,Cold present,Sports,2533,Amber Powell,Smithmouth,10,317.41,2026-01-26T23:04:43.937451
+TXN_8_165_dcafda2b,45,Have politics,Clothing,3101,Matthew Wilcox,South Coryport,3,580.46,2026-02-16T09:08:36.284904
+TXN_8_166_56acc763,41,Common argue,Food,8793,Sharon Gardner,Lake Stephanieside,1,22.58,2026-03-16T01:54:27.263319
+TXN_8_167_fa0fd31f,100,Even TV,Electronics,8111,Mr. Michael Pearson,Andrewhaven,19,246.27,2026-04-12T11:21:31.661075
+TXN_8_168_3069bbee,29,Successful despite,Electronics,6844,James Donovan DDS,Austinchester,4,933.33,2026-01-25T00:50:13.225972
+TXN_8_169_21a747e7,97,Thought over,Food,8779,Katherine Wood,South Jeremy,20,398.63,2026-04-03T18:40:09.879692
+TXN_8_170_1361e05e,78,Central after,Books,8233,Jessica Carr DVM,Lake Vanessastad,17,788.34,2026-02-19T21:56:16.602094
+TXN_8_171_cd0208ab,83,World check,Electronics,7376,Michelle Wilkerson,Lake Amybury,6,507.3,2026-03-27T13:06:23.529077
+TXN_8_172_ac98743e,2,Type produce,Clothing,4116,Donald Mcdonald,Carrollmouth,9,493.71,2026-01-21T10:13:37.403915
+TXN_8_173_d060c819,81,She easy,Clothing,4153,Joshua Goodwin,North Kimberly,14,573.31,2026-01-11T11:50:55.305834
+TXN_8_174_eeb5c57c,87,Standard change,Clothing,3248,Karen Good,Lindseymouth,11,486.87,2026-04-01T18:36:14.618618
+TXN_8_175_5309fc65,63,Wear laugh,Sports,1048,Lisa Hayden,Gregorytown,17,996.89,2026-01-27T03:01:47.073033
+TXN_8_176_b7557f70,22,Follow bar,Food,2770,Sean Smith,North Stephaniechester,7,555.41,2026-02-11T09:11:54.166739
+TXN_8_177_67d943d9,55,At model,Clothing,1725,Karen Jones,Port Michelle,1,975.34,2026-03-26T20:23:01.957881
+TXN_8_178_31ee637c,82,Finish improve,Books,4096,Tammie Wilson,East Mirandaside,15,374.43,2026-01-27T13:29:08.115879
+TXN_8_179_461d00b0,67,Character together,Food,6307,Kyle Terry,East Kyle,14,173.38,2026-05-08T05:00:03.001520
+TXN_8_180_f538834c,77,Agreement believe,Books,7978,Kayla Baird,Stephensonside,2,691.82,2026-01-12T03:12:02.877237
+TXN_8_181_fff1f7a2,61,Look third,Electronics,5957,Bradley Smith,Lewismouth,18,967.84,2026-01-24T06:04:13.434683
+TXN_8_182_9b3f0524,58,Bill sound,Sports,3804,Harry White,Rodgersport,17,385.69,2026-01-14T08:37:26.122998
+TXN_8_183_a0d3ddd4,52,Team miss,Food,3816,Phillip Bush Jr.,Lake Bobby,11,557.51,2026-04-12T17:12:41.459754
+TXN_8_184_931b1cec,32,His reveal,Food,2957,Nathan Collins,North Timothyview,13,592.85,2026-01-05T19:22:01.673454
+TXN_8_185_cef894da,85,East give,Sports,4851,Emily Villarreal,Davidsonview,15,109.65,2026-01-11T10:06:09.914484
+TXN_8_186_3273794d,81,Type establish,Books,2518,Linda Marsh,Gibsonfort,3,913.12,2026-01-19T17:38:14.390751
+TXN_8_187_c49013eb,45,Agency always,Clothing,2142,Sue Mathews,Theresaland,9,10.39,2026-01-19T03:27:35.189564
+TXN_8_188_2add533a,93,Including wall,Food,6332,Maxwell Arroyo,South Cynthialand,16,808.83,2026-03-06T09:29:40.052535
+TXN_8_189_c159390a,69,Growth rest,Food,8875,Deborah Martinez,South Shannonfurt,1,428.33,2026-02-25T14:24:09.491594
+TXN_8_190_e9ab5e69,69,Far camera,Electronics,3033,Peter Haney,Yoderton,12,554.16,2026-03-15T00:39:40.478083
+TXN_8_191_f5988205,48,Sit this,Sports,9598,James Thomas,Robertburgh,8,747.16,2026-02-26T19:37:05.216053
+TXN_8_192_4ff6554e,16,Best although,Books,8894,Mary Hurst,New Richard,16,264.49,2026-02-28T20:51:12.083924
+TXN_8_193_f28e8afe,29,Condition network,Sports,9447,Jonathan Patrick,South Coleshire,19,77.27,2026-04-18T10:21:30.748484
+TXN_8_194_78b9c080,80,Plan which,Food,1141,Brendan Garcia,North Kristin,11,56.24,2026-01-22T18:09:04.451302
+TXN_8_195_f192b89e,80,Computer fine,Clothing,2363,Adam Parsons,West Carl,19,835.68,2026-04-03T22:49:48.264720
+TXN_8_196_fab80466,23,Story continue,Books,9549,Dillon Arroyo,Roymouth,18,480.11,2026-04-10T13:02:32.190652
+TXN_8_197_ec5ec70f,9,Stuff rule,Books,9004,Andrea Wilson,East Arthur,16,585.23,2026-04-24T20:02:18.742763
+TXN_8_198_dc9b13a9,13,Research majority,Books,2192,Hayden King,Greenbury,18,397.83,2026-04-17T21:01:59.184286
+TXN_8_199_d75222b8,84,Particular fly,Clothing,4774,Daniel Brown,Clarkstad,2,123.58,2026-01-09T19:23:09.882027
+TXN_8_200_4c4340c1,35,Drug wait,Books,3291,Ashley Kidd,New Rayton,3,627.41,2026-04-27T22:26:06.549377
+TXN_8_201_6c7af365,50,Might area,Books,8344,Ronald Lam,Lake Frank,14,946.84,2026-03-27T22:24:02.972085
+TXN_8_202_0b172322,53,Before anyone,Clothing,3707,Thomas Cline,New Kristin,11,161.09,2026-05-06T21:01:51.602041
+TXN_8_203_7589f20e,65,Yard available,Sports,5739,Alex Malone MD,Robertmouth,11,123.47,2026-04-15T18:43:33.427238
+TXN_8_204_d92a7249,71,Quickly raise,Electronics,1257,Brandi Oconnor,West Benjaminborough,15,446.95,2026-01-24T00:29:10.371240
+TXN_8_205_f976458e,41,Take account,Electronics,9568,Daniel Reyes,Brittanyville,16,476.14,2026-04-19T04:28:13.357485
+TXN_8_206_46037df7,52,Entire leader,Electronics,9029,Gabriel Parker,Lake David,2,933.0,2026-01-07T17:22:41.394419
+TXN_8_207_b7ddef62,76,Edge window,Clothing,4876,Katherine Henry,Beckerland,4,228.42,2026-04-03T21:49:43.294506
+TXN_8_208_359fafb5,51,Church foot,Electronics,9918,Charles Olson,Hectorland,19,726.25,2026-01-16T07:17:22.752699
+TXN_8_209_2665d31a,18,Stage company,Sports,2435,Robin Olson,Schmidtton,8,187.92,2026-04-14T02:19:10.977080
+TXN_8_210_ab673043,31,Black real,Books,2244,Jennifer Hughes,Atkinston,12,537.84,2026-02-20T05:35:50.126448
+TXN_8_211_bb0b2492,55,Member religious,Books,4282,John Lloyd,Timothyberg,8,411.71,2026-02-22T07:33:02.175803
+TXN_8_212_e608cf5c,42,Six expert,Clothing,5869,Sarah Mcdaniel,Port Jessica,13,827.43,2026-02-16T13:56:08.732745
+TXN_8_213_443a2514,6,Religious five,Sports,8350,Christine Estrada,Erikaville,17,950.41,2026-01-24T03:47:25.140775
+TXN_8_214_ff3fa3fe,74,Through dog,Sports,1397,Tammy White,Angelahaven,10,337.36,2026-01-26T14:49:43.271715
+TXN_8_215_c6f39318,97,What remember,Sports,9064,Katie Harris,West Jesus,9,809.2,2026-04-06T05:51:00.569837
+TXN_8_216_a66c2cef,1,Skin company,Sports,7190,Thomas Andersen,Angelashire,2,448.58,2026-02-04T17:00:31.678410
+TXN_8_217_af0d095d,54,Director school,Sports,7708,Gary Chen,Lake Michael,9,544.13,2026-01-13T16:49:34.427132
+TXN_8_218_6f643985,41,Hit from,Electronics,9388,Mark Alexander DVM,Isaachaven,6,924.96,2026-01-11T01:03:41.871505
+TXN_8_219_fb3b6caa,43,Compare much,Books,4281,Matthew Johnson,New Lynnport,19,922.76,2026-01-06T21:09:37.003761
+TXN_8_220_48bf0fa2,100,The budget,Clothing,2296,Nancy Gregory,Port Kaylee,9,731.82,2026-05-05T11:33:07.985582
+TXN_8_221_cbb3acaf,1,Life single,Sports,8525,Ruben White,Port Samanthaton,20,49.23,2026-01-08T07:33:18.506438
+TXN_8_222_e867e16b,58,Garden project,Electronics,3674,Molly Scott,Millerberg,18,637.98,2026-05-01T08:00:30.135189
+TXN_8_223_8af81e5b,88,Firm bit,Sports,6366,Gabriel Valencia,East Natasha,5,145.15,2026-03-26T06:43:04.182901
+TXN_8_224_82dc6570,84,Dinner democratic,Electronics,9074,Eric Anderson,Lake Brandon,2,712.84,2026-02-17T22:33:25.542156
+TXN_8_225_09d75be4,97,Though top,Electronics,8876,Rodney Jones,Ashleychester,3,513.86,2026-01-18T12:44:12.445363
+TXN_8_226_52764a1a,37,Million final,Electronics,5764,Cameron Robertson,New Christopher,2,740.33,2026-02-05T15:53:24.811399
+TXN_8_227_123d56b2,99,Both dinner,Sports,3839,Daisy Fleming,West Andrewtown,6,828.71,2026-05-02T22:35:45.635926
+TXN_8_228_58669fed,11,Off organization,Food,2637,Veronica Myers,Port Joel,6,556.97,2026-05-06T19:47:58.941223
+TXN_8_229_c4e3039a,13,Defense huge,Food,7732,James Carter,Bethchester,5,189.95,2026-02-14T04:00:06.927859
+TXN_8_230_709e4293,43,Spend Mrs,Clothing,7276,Dakota White,Williamland,10,408.2,2026-03-22T12:15:41.494154
+TXN_8_231_918d506d,100,Student know,Books,4083,Jasmine Warner,Anthonytown,6,35.31,2026-03-10T21:12:22.974925
+TXN_8_232_e0eafb43,19,Society key,Electronics,2207,Alexandra Hartman,Roblesland,17,411.54,2026-04-19T12:27:12.992891
+TXN_8_233_0649bf6b,68,Must summer,Books,8892,Anthony Hudson,Nicolasside,8,330.77,2026-01-16T05:28:21.638296
+TXN_8_234_89a10693,42,Approach chair,Clothing,5780,Carlos Holt,Aliciamouth,18,799.53,2026-01-05T18:16:35.917382
+TXN_8_235_2dbb5bef,3,Peace field,Electronics,3939,Joseph Swanson,Lloydside,20,424.48,2026-03-31T10:21:03.251952
+TXN_8_236_cf8efa16,54,Street positive,Books,4795,Roger Howard,Scottland,5,225.23,2026-01-29T15:57:07.933527
+TXN_8_237_6740f457,63,Near religious,Clothing,6531,Robert Scott Jr.,New Amanda,9,654.95,2026-01-31T20:32:40.136023
+TXN_8_238_2e40d399,75,Its environment,Sports,4045,David Davidson,Garystad,6,33.09,2026-02-25T16:36:52.590444
+TXN_8_239_0e0a1fb1,100,Trip laugh,Electronics,3723,Alejandra Giles,Garretttown,11,360.7,2026-03-23T12:41:13.514115
+TXN_8_240_b3f55f8b,52,Building consumer,Food,4296,Adam Crosby,Courtneyton,18,84.0,2026-03-06T11:01:41.651044
+TXN_8_241_60c1832a,19,Another must,Clothing,3120,Randy Wilson,Ryanshire,17,168.74,2026-03-21T23:47:35.255959
+TXN_8_242_4d2383a8,77,Popular try,Books,7183,Benjamin Compton,Weberfurt,15,617.03,2026-02-01T20:54:40.761683
+TXN_8_243_6b581083,76,Network someone,Clothing,7808,Derek Rivera,West Madelinehaven,19,68.01,2026-02-20T03:02:07.836345
+TXN_8_244_fa0de919,39,Usually race,Sports,3723,Holly White,Sherylmouth,9,347.42,2026-03-16T12:45:57.032308
+TXN_8_245_312a2252,23,Dream thousand,Clothing,3770,Heather Stevens,Kerrville,17,376.01,2026-04-25T11:47:17.428810
+TXN_8_246_a4196dde,17,Stuff spend,Sports,1323,Manuel Simpson,Kennethborough,12,636.45,2026-03-24T21:41:23.569902
+TXN_8_247_6627465e,65,Eight that,Electronics,5986,Vincent Whitaker,Romeromouth,12,775.24,2026-04-05T21:55:07.656800
+TXN_8_248_ce9ff7aa,49,Sit water,Food,7184,Sarah Clark,New Jessica,15,816.56,2026-01-11T08:17:49.316902
+TXN_8_249_181bc627,5,Late example,Food,5810,Michael Smith,Monicastad,13,344.51,2026-02-09T11:37:01.191559
+TXN_8_250_62bd2abf,78,Society perhaps,Electronics,1217,Karen Daniels,Loriville,4,412.37,2026-04-29T21:43:06.015318
+TXN_8_251_1889e16b,49,Watch family,Clothing,9545,Sandra Mcdonald,Nguyenton,10,657.61,2026-01-10T13:13:01.786183
+TXN_8_252_18f7ec06,27,Customer enter,Clothing,5043,Ann Strickland,East Vanessaville,6,213.01,2026-01-22T01:31:47.795305
+TXN_8_253_233b1842,69,Item road,Books,1671,Courtney Taylor,Travisville,11,302.87,2026-04-11T01:47:38.883994
+TXN_8_254_cca5681a,1,Notice size,Electronics,1829,Ryan Jenkins,Thomasport,14,605.7,2026-02-20T07:38:03.129386
+TXN_8_255_ef0a3826,68,Team need,Electronics,5930,Jonathan Martin,Kristineview,13,772.74,2026-03-15T06:22:02.445091
+TXN_8_256_0424bbf5,62,Entire discussion,Clothing,9458,Matthew Barrett,Huntstad,15,38.49,2026-02-19T21:50:52.765919
+TXN_8_257_284a450c,70,National its,Electronics,4312,Cindy Foster,Juliahaven,6,940.53,2026-01-05T06:23:06.353108
+TXN_8_258_c20d35e2,21,Say national,Clothing,8457,John Roberts,North Kennethton,4,393.32,2026-04-26T21:42:21.051930
+TXN_8_259_3e430e34,61,Machine bank,Books,4107,Scott Buchanan,Ortizshire,11,595.7,2026-04-25T14:40:22.611882
+TXN_8_260_ab61bb3a,77,Treat rather,Food,6915,David Garza,Pamelaville,19,245.71,2026-01-28T06:32:10.254798
+TXN_8_261_685d9532,58,Sure under,Sports,4211,Christine Valenzuela,West Rita,6,180.68,2026-05-03T23:09:05.731929
+TXN_8_262_33f0fc7c,5,Arm resource,Sports,4818,Jamie Peck,East Eddie,8,12.83,2026-01-29T21:25:51.364780
+TXN_8_263_5c0e13ca,66,Office time,Sports,2404,Deborah Farley,Lloydport,8,559.07,2026-02-23T02:35:11.584617
+TXN_8_264_b4bbd4c4,81,Avoid growth,Clothing,5654,Jennifer Sanders,Garyhaven,20,467.23,2026-01-28T07:23:30.668832
+TXN_8_265_dac4ff13,13,Article sometimes,Clothing,2166,Erik Parker,Randyland,9,854.87,2026-01-17T09:30:59.770647
+TXN_8_266_bda843e5,1,Argue effect,Food,5249,Ashley Lee,Alishaton,20,880.02,2026-04-28T17:17:36.187926
+TXN_8_267_944bfdc0,48,Loss study,Clothing,2409,Emily Jones,Romeroshire,1,376.07,2026-03-08T10:26:54.119409
+TXN_8_268_35b8de38,87,Include fly,Books,8878,Carolyn Hill,South Victorchester,4,385.22,2026-03-01T16:56:56.419719
+TXN_8_269_70366fbd,73,Control threat,Electronics,2854,James Copeland,Jessicaland,15,735.97,2026-02-15T19:03:28.483894
+TXN_8_270_1e0431d1,17,Class matter,Books,1265,Rebecca Robinson,New Sheilaton,6,271.35,2026-04-04T02:02:32.649206
+TXN_8_271_dabc37c5,25,Our past,Sports,7113,Danielle Weber,Byrdville,6,940.38,2026-02-13T04:19:02.506528
+TXN_8_272_2ae2087b,40,Building beat,Food,2147,Amber Perez,Lake Jesus,18,732.52,2026-03-14T22:37:09.917466
+TXN_8_273_9ae466ae,76,Always across,Electronics,4705,Christopher Barnes,New Amy,17,512.34,2026-04-29T08:28:33.813511
+TXN_8_274_9d12b43e,22,Serious money,Books,1842,William Trujillo,North Karen,4,70.49,2026-01-06T01:32:16.454981
+TXN_8_275_15b28012,70,Focus politics,Electronics,7597,Travis Wells,Andersonside,4,180.96,2026-01-24T05:50:44.026470
+TXN_8_276_9273abc7,36,Outside sit,Food,5579,Tony Friedman,Kevinchester,4,91.07,2026-02-21T23:38:00.190830
+TXN_8_277_3624dedf,54,Report national,Sports,2225,David Davis,West Michael,17,393.12,2026-04-29T04:28:55.976032
+TXN_8_278_a602132b,82,Vote attention,Electronics,3301,Ashley Benton,Port Roger,20,344.26,2026-04-02T03:46:44.526776
+TXN_8_279_f076cc9d,23,City public,Food,3634,John Jones,East Eugeneburgh,2,542.01,2026-02-09T15:21:19.993984
+TXN_8_280_d53172b3,27,Build indeed,Electronics,9945,Benjamin Wright,New Douglasberg,17,92.28,2026-01-26T02:36:32.859050
+TXN_8_281_42a7941a,66,Budget reveal,Books,6352,Scott Baker,Port Lisahaven,2,318.21,2026-03-07T21:02:48.877988
+TXN_8_282_febe0a3f,69,Myself likely,Clothing,6781,Daniel Lin,New Mary,11,91.09,2026-01-17T03:40:12.062360
+TXN_8_283_9c3c0228,13,Would example,Clothing,8282,Matthew Baxter,Lake Emily,9,890.84,2026-03-31T15:17:27.480901
+TXN_8_284_f16e2921,36,Early country,Sports,2068,Erin Stanley,Joneschester,17,818.88,2026-01-11T23:41:46.002219
+TXN_8_285_aaa251be,92,Under contain,Electronics,9995,Laurie Roach,Aliciaview,9,496.33,2026-03-19T02:48:50.446833
+TXN_8_286_371e1cc9,31,Require wait,Books,4429,Justin Holden,Gainesborough,2,694.86,2026-02-06T23:14:50.001777
+TXN_8_287_261afc38,92,Artist speech,Electronics,8606,Ashley Baker,Willisville,12,66.71,2026-04-04T13:16:53.260745
+TXN_8_288_43e63f84,49,Color tend,Books,3897,Gabriel Lopez,East Joanna,8,331.41,2026-03-01T11:42:23.879833
+TXN_8_289_6e4c42c2,44,Forward style,Books,6609,Rachael Bradford,Port Nicholas,13,393.12,2026-02-23T14:21:36.451799
+TXN_8_290_19543e0c,45,Pretty education,Electronics,1959,Dylan Hunt,Lake Robertberg,19,382.27,2026-04-17T02:25:09.017966
+TXN_8_291_95d8a28a,23,Open store,Food,5236,Dr. Melissa Brooks,Port Isaac,18,886.87,2026-03-31T19:37:55.312478
+TXN_8_292_9bfe1128,77,Else long,Sports,6161,Curtis Kelley,South Donald,8,886.74,2026-01-07T20:57:32.981467
+TXN_8_293_a0348e61,71,Anyone trial,Clothing,7942,Laurie Leon,West Sara,2,842.21,2026-01-18T04:10:03.883312
+TXN_8_294_58b0c449,12,Share report,Sports,7991,Ronald Ward,Jonesport,8,557.54,2026-03-29T21:29:04.160921
+TXN_8_295_75eafd74,83,Local past,Clothing,2366,Courtney Dickerson,Port Larry,17,136.75,2026-01-31T00:25:07.067116
+TXN_8_296_0c559998,85,Computer strong,Electronics,9115,Devin Miller,South Joanna,2,694.69,2026-01-02T22:25:25.328288
+TXN_8_297_bc59fbfd,47,Produce new,Sports,7486,Danielle Finley,Port Cherylview,17,279.9,2026-02-21T17:03:08.203259
+TXN_8_298_595ec726,45,Gas party,Clothing,8496,Brooke Hernandez,South Joseph,14,107.23,2026-04-10T12:59:49.414586
+TXN_8_299_078536f9,12,Notice space,Electronics,2197,Aaron Rose,Port Danielchester,2,571.18,2026-02-27T23:24:01.829157
+TXN_8_300_b8a28983,82,Thank similar,Electronics,8012,Hector Pollard,Graytown,11,262.28,2026-04-26T23:37:10.808184
+TXN_8_301_a58b262b,17,Report laugh,Sports,2444,Kristine Williams,Lake Kristafurt,12,790.56,2026-04-08T09:30:51.499541
+TXN_8_302_385a625b,81,Through culture,Sports,5562,Theresa Webb,North Marcside,20,176.01,2026-01-13T13:57:19.571265
+TXN_8_303_86f58df4,12,Specific if,Food,7473,Jordan Mclaughlin,Burgesschester,7,54.3,2026-01-31T21:41:51.427440
+TXN_8_304_072cc5f9,3,Serve nature,Electronics,1102,Jason Brennan,Ariastown,8,459.64,2026-03-01T11:00:03.813638
+TXN_8_305_cd1f6584,23,Take article,Sports,8893,Ashley Schneider,Port Keithville,18,594.8,2026-03-25T07:19:48.530154
+TXN_8_306_91257d01,37,Government change,Books,1278,Robert Williams,Murilloland,8,77.91,2026-01-06T18:03:32.148066
+TXN_8_307_0fee9d0b,81,Card easy,Clothing,1723,Mark Harris,Griffintown,1,374.84,2026-04-16T09:32:26.481092
+TXN_8_308_b92cb7fb,79,Son likely,Clothing,2582,Elizabeth Bonilla,West Kathryn,16,822.59,2026-02-26T19:38:39.731405
+TXN_8_309_0b7d437a,14,Board image,Clothing,9871,Mariah Navarro,Reesefort,12,565.92,2026-03-22T12:34:03.724260
+TXN_8_310_c3e77dae,37,Individual understand,Electronics,4674,Amanda Wolfe,Jonesport,6,368.78,2026-04-30T01:53:15.616769
+TXN_8_311_72b9015e,98,Guy whole,Clothing,6316,Megan Cline,Lake Allen,11,808.71,2026-04-06T01:17:17.576599
+TXN_8_312_1bcec6f9,58,Late often,Clothing,1556,Karen Smith,Smithhaven,7,625.39,2026-02-21T02:56:10.772401
+TXN_8_313_3d9aa50f,1,Decide game,Electronics,7344,April Camacho MD,Arianaside,12,16.73,2026-03-12T16:07:54.819144
+TXN_8_314_6b962fc9,31,While candidate,Food,8247,Veronica Branch,Kellyfurt,8,541.42,2026-02-12T12:31:26.520289
+TXN_8_315_4f3a7db6,85,Few adult,Electronics,8590,Jennifer Rodriguez,Tylermouth,16,789.59,2026-01-02T03:29:04.183282
+TXN_8_316_901ee67c,5,Offer all,Clothing,1427,Sean Campbell,South Cynthia,13,399.48,2026-01-27T20:42:19.050030
+TXN_8_317_84e33a3d,93,Paper collection,Electronics,8072,Jason Fletcher,North Veronicamouth,9,306.84,2026-01-02T01:26:31.556663
+TXN_8_318_cdfc243b,100,Threat decade,Clothing,9591,Barbara Gonzalez,South Ronald,18,944.19,2026-05-05T13:57:05.608827
+TXN_8_319_ef668d1b,70,Town cover,Food,9764,Clarence Cunningham,Carrollshire,5,59.6,2026-04-06T21:11:07.670441
+TXN_8_320_1903be49,7,Poor until,Clothing,8259,Stephanie Williams,South Charles,6,920.92,2026-04-08T09:04:47.068691
+TXN_8_321_28d27f6d,23,Door general,Electronics,2989,Cindy Davis,Gonzalezborough,5,666.89,2026-01-14T11:49:36.332283
+TXN_8_322_1f58a51e,78,Look whole,Sports,7868,Christina Mathis,Port Adamchester,13,709.32,2026-01-26T01:44:10.651550
+TXN_8_323_9802d8bf,90,Break thousand,Food,4713,Taylor Howe,Chelseahaven,16,88.81,2026-02-10T04:31:36.577132
+TXN_8_324_1792bf59,80,Find method,Clothing,2087,Michelle Ward,Robertoville,10,62.17,2026-04-23T05:10:39.247393
+TXN_8_325_d57178ad,50,Truth take,Books,4470,Allison Martin MD,East Brianna,15,253.34,2026-03-27T10:44:14.972370
+TXN_8_326_0093f495,57,Condition teacher,Books,1664,Mark Wright,New Jeremy,3,659.37,2026-01-01T02:08:30.084471
+TXN_8_327_e7ef26b9,38,Both develop,Clothing,7887,Christopher Lewis,Tanyashire,10,735.61,2026-01-05T21:43:10.088238
+TXN_8_328_5e87739d,20,Bill give,Electronics,2333,Traci Owens,Lindaborough,2,912.08,2026-02-11T15:31:49.774132
+TXN_8_329_173883e5,51,Mind cold,Food,5403,Eileen Norton,Butlermouth,9,596.03,2026-01-20T16:59:16.588416
+TXN_8_330_a63bad22,71,Court answer,Clothing,3617,Terry Hall,Cassandraburgh,7,473.18,2026-03-08T22:04:01.069321
+TXN_8_331_fa0e1c6a,92,With white,Food,2759,Erica Ford,South Robert,13,20.29,2026-03-26T01:16:46.632584
+TXN_8_332_67ddbbe5,96,Unit add,Clothing,2323,Carolyn Douglas,East Kevinfurt,14,612.7,2026-01-18T13:01:42.406168
+TXN_8_333_65cd7e47,23,Where collection,Clothing,6411,Benjamin Martin,Carlsonhaven,11,871.18,2026-04-08T10:45:26.356162
+TXN_8_334_ed1c022b,32,Bank officer,Books,3350,Amber Coleman,Wagnerfurt,17,667.18,2026-01-03T13:57:38.532110
+TXN_8_335_23191aaf,90,Else recognize,Food,4750,Katherine Jordan,Feliciaberg,17,697.69,2026-03-18T04:36:07.160157
+TXN_8_336_2aa38de7,13,Sure beautiful,Food,8634,Alex Thomas,New Austinburgh,20,569.25,2026-04-07T03:45:59.364712
+TXN_8_337_11fb29d4,65,Growth particular,Clothing,2816,Debra Ford,New Kimberlyland,12,571.54,2026-02-03T21:56:13.939542
+TXN_8_338_8946abd7,58,Economic action,Food,9614,Todd Stephens,Michellemouth,16,829.23,2026-01-27T04:55:22.920503
+TXN_8_339_ea3bcd7a,73,Question near,Books,7111,Travis Dudley,North Travisbury,2,539.71,2026-03-20T04:36:27.766204
+TXN_8_340_82eca071,64,Million begin,Sports,7868,Jonathan Clark,Lake Melissaborough,15,279.46,2026-03-15T12:48:09.535483
+TXN_8_341_f8cc63bc,82,Any artist,Electronics,4391,Jeffrey Murphy,Victoriamouth,20,221.11,2026-04-07T22:50:20.919497
+TXN_8_342_bd58394e,99,Catch best,Sports,9831,Donald Beltran,Lake Jessica,12,657.84,2026-03-10T10:44:26.567310
+TXN_8_343_006dcfb6,39,Experience style,Clothing,6807,Stacy Henderson,Schwartzmouth,1,250.52,2026-04-12T07:16:44.582273
+TXN_8_344_bc7c5215,32,None manager,Sports,6468,Jennifer Smith,West John,2,660.27,2026-02-21T13:13:00.303633
+TXN_8_345_361c873e,6,Possible material,Electronics,3929,Rebecca Nelson,Grantberg,6,449.83,2026-02-17T12:22:08.617723
+TXN_8_346_bdf5229c,83,Institution later,Books,3105,Megan Sandoval,Moranhaven,17,875.25,2026-02-04T02:21:24.905338
+TXN_8_347_464308e8,77,Health officer,Clothing,6664,Amanda Singleton,North James,20,333.3,2026-05-01T06:41:12.039998
+TXN_8_348_6afd4056,10,Physical man,Electronics,4161,Amber Barnett,Greenborough,4,661.99,2026-01-13T01:05:37.900676
+TXN_8_349_3b9184d8,46,Fish meeting,Food,8638,Alan Lopez,Amyborough,14,479.7,2026-01-26T23:38:09.983306
+TXN_8_350_ea709526,91,Matter themselves,Clothing,1059,Michael Adams,Shannonchester,1,249.73,2026-01-01T17:38:09.918201
+TXN_8_351_366f52ce,65,Money member,Electronics,8319,Colleen Sellers,Moyerland,2,734.98,2026-04-12T23:41:50.477582
+TXN_8_352_dffc2548,55,Billion future,Clothing,2239,Andrew Levine,Port Emilytown,5,475.55,2026-02-27T19:34:50.311107
+TXN_8_353_8da455d5,43,Gas staff,Clothing,7158,Donald Garza,West Davidshire,4,425.53,2026-05-01T06:46:34.572749
+TXN_8_354_8289d950,30,Ever director,Electronics,4064,David Allen,Port Elizabethton,17,36.41,2026-03-05T00:07:14.923443
+TXN_8_355_eaf2345d,92,All natural,Clothing,8675,Karen Mayer,Mcfarlandburgh,11,262.21,2026-03-04T15:07:30.681822
+TXN_8_356_74f44d09,70,Explain mouth,Electronics,2149,Andrea Phillips,West Jacquelineside,19,882.04,2026-03-10T13:30:09.943170
+TXN_8_357_3e66d6d5,31,Tree explain,Food,6195,Timothy Green,Erinberg,18,32.49,2026-04-28T16:43:03.864458
+TXN_8_358_b0b6627a,82,Or get,Clothing,4249,Mary Decker,Sheilamouth,12,590.65,2026-04-13T09:26:53.090039
+TXN_8_359_ecb12a1c,50,Pm black,Electronics,8694,Dr. Sandra Marks,Rodneyburgh,14,624.74,2026-02-14T10:41:59.641310
+TXN_8_360_2d12e7df,21,My political,Clothing,4596,Juan Harvey,Port Ryan,19,847.28,2026-01-14T21:55:01.531105
+TXN_8_361_b14ae320,54,Them statement,Clothing,2705,Jessica Scott,Lake Amanda,7,709.8,2026-01-15T01:35:48.361153
+TXN_8_362_48502b88,56,Foreign answer,Electronics,3310,Jodi Hernandez DDS,Edwardfurt,19,453.64,2026-03-02T05:48:57.722405
+TXN_8_363_cdfe89e5,92,Would bag,Food,8267,Deborah Hunt,Chelseastad,12,264.03,2026-02-13T19:01:05.018068
+TXN_8_364_58477189,77,Indeed commercial,Clothing,6166,Peter Davis,Christopherfurt,7,16.54,2026-03-11T21:46:38.103535
+TXN_8_365_97bad400,96,Act thank,Sports,1319,Lauren Dyer,New Stacieton,11,146.9,2026-03-26T07:42:26.142483
+TXN_8_366_d1bd504a,18,Hair issue,Clothing,5409,Dennis White,Bentleyborough,15,341.4,2026-03-16T14:57:06.950940
+TXN_8_367_31b881df,32,Those that,Clothing,3179,Jennifer Russo,Beardstad,5,703.34,2026-05-06T03:00:10.227863
+TXN_8_368_e759d3a7,49,Family baby,Electronics,2914,Jessica Dominguez,South Colinstad,9,665.93,2026-02-21T14:11:02.531259
+TXN_8_369_977a51c8,55,Give health,Books,6830,Derrick Perez,North Jacob,6,613.53,2026-04-03T22:24:24.679296
+TXN_8_370_e56467f2,17,Popular part,Electronics,4930,Steven Leonard,New Jamiemouth,17,308.0,2026-04-05T04:25:42.542026
+TXN_8_371_5ebb4981,76,Be claim,Electronics,2026,Christine Mitchell,South Biancastad,13,225.1,2026-01-09T02:21:36.168786
+TXN_8_372_ace10c69,64,Pretty mission,Clothing,9270,Julie Jackson,South Rebekah,2,509.86,2026-01-07T05:57:25.301832
+TXN_8_373_825c381d,94,Partner we,Clothing,2327,Mary Le,East Sara,11,834.23,2026-02-16T23:57:12.458829
+TXN_8_374_6132bbee,19,War lawyer,Food,3194,Ralph West,Westberg,2,499.53,2026-03-26T20:32:00.351875
+TXN_8_375_68ecf810,17,Movie production,Electronics,3143,Jerry Reed,Lake Kenneth,20,698.78,2026-03-21T05:19:15.371642
+TXN_8_376_c336e84d,19,Shake quickly,Food,8221,Cristina Scott,East Jerryside,16,887.71,2026-04-17T07:47:24.237679
+TXN_8_377_ba53dd89,20,Energy out,Books,1176,Melissa Graves,Cookville,16,337.23,2026-01-10T10:56:03.714971
+TXN_8_378_cab3659f,37,Whether consumer,Clothing,7226,Melanie Brown,East Scotttown,10,783.79,2026-05-04T00:03:17.936368
+TXN_8_379_f5db16a5,96,When father,Sports,5234,Michelle Carter,Brianborough,5,101.32,2026-03-14T23:47:26.587976
+TXN_8_380_d8781a95,71,Choose specific,Sports,1285,Victoria Thornton,New Denisetown,18,645.75,2026-01-08T22:37:27.688408
+TXN_8_381_93bf9dcc,54,Stuff analysis,Sports,6788,Nicole Day,New Andrewmouth,8,972.19,2026-03-31T08:56:34.675160
+TXN_8_382_44198e64,55,Environmental name,Sports,6223,Russell Marshall,Jenkinsmouth,14,67.71,2026-01-03T22:22:41.802055
+TXN_8_383_9f2c0361,70,Now husband,Electronics,2082,Jennifer Oconnor,Maryfurt,11,265.92,2026-05-08T16:44:42.076569
+TXN_8_384_1eef6549,38,Pressure generation,Electronics,3663,Lindsay Ayers,Brianberg,13,977.63,2026-02-16T16:14:08.900383
+TXN_8_385_1cb858be,54,All address,Sports,8325,Brad Lopez,South Timothy,16,972.82,2026-03-28T11:31:21.944747
+TXN_8_386_0f9a49e1,81,National quite,Clothing,2482,Tina Chen,West Daniellebury,1,830.73,2026-03-18T10:57:36.605884
+TXN_8_387_4b3031cf,82,Full million,Electronics,9844,Laura Tucker,West Charlesview,18,713.46,2026-04-28T23:15:29.219685
+TXN_8_388_09f75078,82,Official fly,Sports,4804,Alexander Davis,Browntown,18,519.84,2026-02-16T00:14:01.918687
+TXN_8_389_17bb4909,79,Throw unit,Books,6498,Joseph Harvey,Tapialand,1,821.11,2026-01-25T20:34:01.170398
+TXN_8_390_18594dc6,34,Pressure born,Food,1992,Kristin Macias,Bennettchester,5,945.96,2026-02-14T15:47:01.440187
+TXN_8_391_5573f962,44,Staff bad,Sports,8585,Sarah Campbell,Sharishire,1,591.49,2026-01-19T06:16:51.402168
+TXN_8_392_26d40590,19,Respond report,Clothing,2698,Megan Martinez,Port Andrewstad,4,437.91,2026-02-24T09:07:47.117031
+TXN_8_393_1074da6f,30,Several arm,Books,9641,Charles Johnson,Allenport,17,308.4,2026-01-17T22:04:19.070644
+TXN_8_394_ff7c1a36,39,General protect,Food,8297,Joseph Hansen,Lake James,15,861.9,2026-01-31T15:59:05.868258
+TXN_8_395_7ba4d077,20,About interesting,Clothing,8414,Ronald Houston,Mitchellberg,17,609.81,2026-01-23T05:14:36.037249
+TXN_8_396_ae54dee7,23,Similar air,Books,4604,Benjamin Nichols,Port Carlos,8,58.45,2026-05-04T17:30:59.410771
+TXN_8_397_25db5275,8,Film company,Books,8288,Zachary Brown,South Jenniferstad,7,938.34,2026-01-07T12:55:50.555519
+TXN_8_398_1fc99f31,2,Site notice,Food,5697,Jeffrey Hall,Mooreview,12,778.19,2026-02-24T04:51:28.011565
+TXN_8_399_b204eea1,34,Along your,Sports,5963,Vicki Maxwell,Lake Jonathanview,17,99.26,2026-03-14T00:45:35.794015
+TXN_8_400_0f5a9929,47,What thank,Books,8182,Angela Richard,New Teresachester,9,47.88,2026-04-23T08:44:07.780538
+TXN_8_401_24d4ff9b,74,Republican worry,Food,4799,Kevin Myers,Tonyafurt,6,384.83,2026-03-11T05:03:14.752739
+TXN_8_402_2e55b4c0,99,Develop poor,Food,7912,Melanie King,Port Randyborough,13,926.24,2026-01-09T20:47:05.077687
+TXN_8_403_9449f27e,44,Result discussion,Electronics,5058,Elizabeth Bernard,Port Briannaside,8,679.3,2026-02-19T15:46:04.083483
+TXN_8_404_27ab6814,96,Region center,Electronics,6928,Jamie Phelps,Annafort,9,482.08,2026-04-14T02:11:14.717710
+TXN_8_405_e1beee88,81,Enjoy house,Books,9961,Jo Gutierrez,North Johnside,1,93.25,2026-01-27T14:31:48.551019
+TXN_8_406_d76b5773,89,Decide head,Food,9643,Monica Kirby,New Christopherview,1,483.08,2026-02-25T11:12:50.793478
+TXN_8_407_e137151b,89,Involve candidate,Food,5981,Jill Lynch,West Charles,12,244.15,2026-03-28T21:35:53.019047
+TXN_8_408_60b30e63,4,Congress white,Food,4807,Colleen Robertson,Christineton,16,940.66,2026-03-09T05:52:44.777808
+TXN_8_409_3bd03a8e,76,Pass medical,Clothing,3049,Victoria Jones,West Tommyton,20,856.37,2026-04-23T19:43:44.649492
+TXN_8_410_b85cec16,79,Shake security,Food,2004,Randall Blair,Thompsonstad,2,984.82,2026-03-12T13:22:35.953327
+TXN_8_411_01ec23c7,40,Letter short,Food,8201,Alexis Parker,Mcclainfort,20,685.36,2026-04-18T22:25:41.947453
+TXN_8_412_30d449ce,26,Head natural,Books,6372,Margaret Johnson,Lake Codychester,14,648.43,2026-01-02T03:47:52.551752
+TXN_8_413_ae599e23,88,Matter form,Food,6275,Brenda Bernard,Carlabury,10,727.29,2026-01-04T02:21:56.189307
+TXN_8_414_7ead746e,3,Still size,Sports,9183,Robert Hall MD,Lake Trevorbury,2,329.68,2026-05-03T04:38:51.460596
+TXN_8_415_6414ad16,76,Off bit,Sports,7596,Tina Collins,Lake Justin,2,742.47,2026-04-30T02:10:13.532834
+TXN_8_416_0f09ffc8,54,Where describe,Food,2574,Jennifer Cruz,East Rebeccatown,12,351.1,2026-05-08T08:00:51.117510
+TXN_8_417_62b936ef,86,Blue few,Clothing,4447,Paul Davidson,Lake Dianamouth,8,910.44,2026-04-30T03:39:06.958070
+TXN_8_418_840089cb,57,North democratic,Electronics,9384,Julia Collier,Port Rogermouth,3,339.28,2026-04-04T04:14:58.183457
+TXN_8_419_3b1c91a5,99,Marriage realize,Clothing,1235,James Keller,Port Christinafurt,20,744.25,2026-01-05T16:39:44.065356
+TXN_8_420_aa8a81e5,83,Mean him,Clothing,9893,Lauren Bolton,Valeriechester,17,31.22,2026-02-26T12:35:49.863321
+TXN_8_421_75dcf5f4,76,Anything that,Clothing,1968,Eric Patrick,Gabrielchester,7,139.03,2026-03-17T12:00:45.389723
+TXN_8_422_f834bbdb,12,Indicate particularly,Sports,5812,Jeffrey Ayala,Scottchester,8,410.07,2026-03-12T09:49:26.305749
+TXN_8_423_e2414797,23,Foot I,Electronics,3578,Brittney Wilkerson,Blacktown,12,646.12,2026-04-04T19:16:33.963246
+TXN_8_424_044bd073,15,Yard sign,Sports,1223,Joyce Brown,Adamsville,8,215.01,2026-01-14T17:40:52.890590
+TXN_8_425_b355aaa5,39,Then statement,Books,7167,Joyce Rice,Jonathanshire,17,240.31,2026-03-27T15:59:52.683600
+TXN_8_426_4f54e703,5,Agreement still,Food,4009,Sandra Jackson,Allenview,5,735.15,2026-03-19T00:36:54.629889
+TXN_8_427_ef1a8e0b,28,Hair order,Food,3113,Laura Luna,West Kristin,20,417.96,2026-04-01T08:16:46.252649
+TXN_8_428_9de2122b,36,Price huge,Books,2820,Hunter Harris,Port Rogerchester,20,94.96,2026-02-03T16:12:37.842417
+TXN_8_429_aa21931e,57,Democratic avoid,Electronics,9489,Angel Gibson,Lake Breannaburgh,12,468.15,2026-04-14T08:50:21.538072
+TXN_8_430_9f45c660,57,Sometimes wrong,Food,8552,David Jackson,Davisfort,17,78.44,2026-04-15T13:45:34.599445
+TXN_8_431_91c04105,88,Prepare according,Food,2555,Alexander Burnett,Barnettborough,2,586.27,2026-04-30T06:04:58.734693
+TXN_8_432_f305c54a,41,Which society,Food,4460,Jordan Peterson,North Noahport,2,934.32,2026-04-07T00:38:41.988597
+TXN_8_433_12c641e9,96,Impact major,Clothing,7027,Kenneth Pittman,Franklinbury,16,949.53,2026-03-03T02:18:20.410162
+TXN_8_434_55b58499,55,Give continue,Books,7544,Jennifer Morton,East Hailey,6,990.37,2026-04-29T23:22:33.736965
+TXN_8_435_b1825f7f,30,Position develop,Electronics,4648,Brian Hicks,Pattersonport,20,499.13,2026-02-14T00:41:13.858500
+TXN_8_436_644f64b4,61,Attack strong,Sports,7362,Jason Martinez,West Jonathanville,3,131.99,2026-01-07T16:02:20.609392
+TXN_8_437_7f7a1be1,88,Memory group,Electronics,8643,Lisa King,Lake Sherriton,11,379.02,2026-01-04T09:05:57.028191
+TXN_8_438_ca4a8302,43,Next law,Sports,3380,Wayne Miles,Lewisbury,1,758.38,2026-04-05T01:04:48.794257
+TXN_8_439_6af9c2f9,31,Blue trip,Clothing,3633,Aaron Poole,North Paulview,16,345.24,2026-03-24T04:45:51.639346
+TXN_8_440_df317c68,76,Offer know,Sports,9510,Tim Miller,West Danielville,4,818.55,2026-03-01T04:28:03.524018
+TXN_8_441_8064a5d2,15,Man third,Electronics,6163,Michele Marks,Allenbury,1,757.07,2026-04-17T01:01:23.677918
+TXN_8_442_ccb66bc1,2,Executive course,Books,1877,Michael Watson,New Thomas,13,245.14,2026-05-06T18:35:52.478657
+TXN_8_443_4d3ed15f,25,Western throughout,Sports,7260,Jill Hunter,Hammondchester,9,596.15,2026-02-22T16:45:38.404514
+TXN_8_444_c88ce595,60,Certain what,Books,9887,Patricia Brady,Jennifershire,1,854.71,2026-01-15T08:32:28.229843
+TXN_8_445_e5e5bff4,3,Career doctor,Food,6076,Nicholas Carey,Petersonview,19,367.76,2026-02-27T13:58:46.666647
+TXN_8_446_b4a5070b,3,Food side,Sports,6175,Debra Randolph,Doyleside,6,342.99,2026-04-05T17:30:47.995654
+TXN_8_447_6069a94f,86,From keep,Sports,8272,Sarah Rodriguez,Robinsonside,10,758.15,2026-04-14T16:05:13.463455
+TXN_8_448_7f1f3340,17,Surface relate,Electronics,5518,Russell Stevens,North Krystal,6,813.44,2026-05-05T18:16:28.700033
+TXN_8_449_8ca5acde,52,Girl some,Clothing,4553,Jeffrey Hill,East Samuel,12,983.91,2026-02-09T04:31:25.475212
+TXN_8_450_e3250c00,57,Worry action,Electronics,4987,Brady Brown,Port Bradleyview,1,122.67,2026-01-09T03:04:40.508805
+TXN_8_451_c81800ec,78,Gas difference,Electronics,2497,Susan Hart,North David,11,587.79,2026-04-23T01:08:17.973979
+TXN_8_452_92d0c758,71,Understand finally,Sports,2277,Veronica Sanders,Reynoldsmouth,8,946.63,2026-04-23T01:24:48.438592
+TXN_8_453_918f5e30,35,Red possible,Food,3226,Jennifer Burton,Shaneberg,4,777.51,2026-01-16T06:08:55.891770
+TXN_8_454_3ea4acaa,24,Wall pretty,Food,8703,John Obrien,Yeseniatown,2,408.32,2026-01-12T22:29:42.940840
+TXN_8_455_62ee936b,19,Various center,Sports,7502,John Zavala,North Tammyland,5,126.1,2026-03-08T04:41:32.342788
+TXN_8_456_1b35b6b7,94,Character bad,Electronics,3827,Tina Greer,Port Mackenzie,4,692.56,2026-02-18T23:58:20.981996
+TXN_8_457_f5cf3a3b,95,Begin couple,Electronics,8680,John Stanton,Nancytown,15,632.27,2026-03-02T22:01:42.372633
+TXN_8_458_ec1cd0a9,3,Pick thing,Books,8536,Kenneth Wiggins,Marksview,6,207.61,2026-02-28T16:50:56.773121
+TXN_8_459_dd4fd82d,46,Throw skill,Clothing,6515,Amy Torres,New Kathleen,15,73.53,2026-03-04T03:43:00.662335
+TXN_8_460_4fce74a4,71,Natural civil,Clothing,2884,Kylie Johnson,Lake Kevin,4,984.61,2026-01-09T18:37:23.219759
+TXN_8_461_9ee8fe99,79,Chair side,Food,3302,Glenn Watkins,South Dennis,10,327.96,2026-01-01T09:13:26.570799
+TXN_8_462_d0f29ebe,24,Result however,Sports,4843,Ashley Benson,Jamesmouth,10,561.28,2026-04-23T21:07:45.164152
+TXN_8_463_ee928194,58,Again onto,Sports,9809,Priscilla Curry,Port Roger,11,155.39,2026-02-03T11:49:59.939490
+TXN_8_464_c1fe042a,15,Out same,Sports,2277,Kara Payne,Lake Susanville,10,86.17,2026-04-16T12:42:15.610596
+TXN_8_465_c7ed123a,19,Speech fear,Sports,3704,Helen Woodard,Ronaldhaven,6,474.43,2026-04-30T12:58:23.127813
+TXN_8_466_11e4626e,77,That clearly,Books,7617,Nicholas Obrien,Bryceberg,8,750.09,2026-02-05T05:31:06.815593
+TXN_8_467_ee0d21c0,62,Future long,Books,6128,Cynthia Roberts,Williamstown,1,502.84,2026-03-14T04:44:30.005733
+TXN_8_468_87c3e655,76,Heavy arrive,Clothing,3260,Charles Cohen,Port Taylor,17,192.31,2026-02-21T03:31:35.054677
+TXN_8_469_ca65d145,87,Analysis rise,Clothing,7868,Kelsey Baker,Heatherborough,17,82.42,2026-03-10T19:25:51.936018
+TXN_8_470_6dec01af,42,Military exist,Food,6984,Samuel Lyons,Port Ruth,16,630.95,2026-03-03T19:19:17.424854
+TXN_8_471_291c5a82,14,Dark not,Clothing,5238,Tiffany Cole,Shannonbury,19,814.25,2026-04-27T17:29:42.461097
+TXN_8_472_d7f15fbf,96,Relate often,Food,4711,James Franklin,Johnsonberg,20,635.26,2026-03-03T14:42:20.325004
+TXN_8_473_812da923,36,Lead strong,Books,7875,Laura Walsh,Herreraton,14,326.12,2026-03-28T10:51:09.788752
+TXN_8_474_82fd9685,63,Tonight teacher,Electronics,1131,Joseph Edwards,Fullerhaven,15,263.54,2026-01-04T16:15:44.029747
+TXN_8_475_48ff1f94,90,Remember study,Clothing,8023,Natalie Brown,Melissaborough,20,322.12,2026-04-28T14:27:04.142693
+TXN_8_476_0184dccb,91,Former plan,Books,2895,Kevin Hall,Paynehaven,1,192.35,2026-01-02T19:18:26.783436
+TXN_8_477_6d5c3a45,18,Before act,Electronics,6465,Jason Stone,Garciaborough,13,984.54,2026-01-08T19:09:18.632156
+TXN_8_478_6ea23e6d,2,Simply Mrs,Books,6117,Caitlin Young,Sanchezport,3,287.01,2026-02-24T12:07:50.889472
+TXN_8_479_1066c134,73,Attorney throw,Electronics,1974,Amy Williams,New Kim,8,707.07,2026-05-03T22:57:59.047066
+TXN_8_480_02de85f2,98,Head wear,Sports,5090,Janet Klein,Estradafort,4,581.49,2026-04-11T15:19:07.839176
+TXN_8_481_1c7c08d5,32,However decide,Books,4134,Wesley Davis,Port Jeffreyhaven,4,336.85,2026-03-06T11:46:27.710139
+TXN_8_482_2eb5737c,44,Race popular,Sports,2194,Ryan Evans,West Darrenfort,3,287.7,2026-02-06T08:53:02.092732
+TXN_8_483_cdc26137,64,Actually power,Clothing,4205,Katrina Douglas,Julieside,12,992.88,2026-04-01T11:37:55.263004
+TXN_8_484_cbc0247e,70,Yeah whether,Sports,5631,Joseph Barnett,Fowlerberg,14,400.02,2026-02-23T05:44:25.347533
+TXN_8_485_fa13a2ca,31,Billion market,Food,5188,Ryan Bray,South Cody,14,820.13,2026-02-11T03:16:56.183748
+TXN_8_486_6a97318b,22,Effect morning,Electronics,3176,Brian Thomas,Allenside,4,557.79,2026-01-08T12:54:42.006258
+TXN_8_487_f645ba97,27,Compare they,Food,7236,Christina Carlson,Gilbertville,13,837.67,2026-02-02T20:00:23.204036
+TXN_8_488_1eb5444a,57,Fine set,Sports,3897,Stephen Burns,Leehaven,19,860.51,2026-01-25T23:12:08.066602
+TXN_8_489_8af43a11,6,Something third,Books,8646,Taylor Bush,Schmidtborough,1,974.5,2026-03-10T11:44:54.347426
+TXN_8_490_3d5f005e,45,Subject board,Food,7911,Elizabeth Barajas,Stephenfort,14,986.41,2026-05-05T15:11:28.325884
+TXN_8_491_efe83062,84,Smile by,Sports,7541,Leah Simmons,Thompsontown,7,531.68,2026-04-13T19:51:15.143404
+TXN_8_492_5ee9c906,85,Material agreement,Food,9314,Charles Parrish MD,Lauraside,8,582.27,2026-04-16T11:44:16.669521
+TXN_8_493_20c33e9a,27,Watch significant,Clothing,4679,Matthew Brown,Jacquelineport,16,96.52,2026-01-30T14:51:17.879060
+TXN_8_494_57bd8c07,6,Town poor,Food,2091,Austin Pacheco,Cassandrastad,13,863.44,2026-01-27T23:53:17.826546
+TXN_8_495_3045be46,78,Paper form,Clothing,7248,Theresa Jones,Lake James,13,219.78,2026-02-26T11:51:08.724487
+TXN_8_496_e249b777,26,Simple more,Sports,2418,Stacey Bates,Vickichester,16,245.87,2026-02-07T09:58:26.843634
+TXN_8_497_147d860c,61,Training usually,Electronics,4719,Stephanie Hardy,South Johnton,15,920.61,2026-04-28T01:21:16.800240
+TXN_8_498_a38f83f0,53,Woman morning,Sports,2682,Courtney Edwards,Nelsonstad,4,992.15,2026-03-27T02:25:15.299539
+TXN_8_499_86a331f4,6,Leg far,Sports,3684,Alexa Anderson,Williamchester,8,997.19,2026-01-18T14:37:17.388724
+TXN_8_500_e67f480d,2,Whom bit,Electronics,6757,Kevin Jimenez,Taylorland,11,66.49,2026-01-23T15:22:02.541402
+TXN_8_501_2200eb92,25,Person drive,Electronics,5660,Ronald Gross,Andersonside,14,441.81,2026-02-02T17:02:33.384340
+TXN_8_502_5320697a,100,Upon project,Sports,8150,Jacob Robinson,Caseburgh,6,816.93,2026-04-25T19:25:11.570667
+TXN_8_503_5861205a,6,Box any,Clothing,3552,Robert Smith,North Sheilaberg,14,137.44,2026-01-02T16:01:08.615494
+TXN_8_504_b0d03c26,4,Month could,Electronics,3398,Edward Williams,Williamsmouth,14,454.18,2026-04-30T01:56:23.146335
+TXN_8_505_2d14d0a4,39,Life loss,Sports,2496,Gary Rosales,New Davidburgh,1,443.87,2026-04-29T05:47:56.309764
+TXN_8_506_f009b5c5,98,Nature some,Clothing,8232,Jill Walker,Crosstown,7,214.65,2026-04-27T13:30:50.520531
+TXN_8_507_f6d6330a,36,Ten Mrs,Sports,6252,Rachael Hawkins,Ortegaview,8,79.83,2026-02-24T12:25:33.253944
+TXN_8_508_0dd130a8,65,Color close,Books,6385,Timothy Moore,Lake Emily,19,521.17,2026-04-29T23:11:11.537024
+TXN_8_509_8a0d7433,56,Main product,Sports,4178,Michael Lee,West Devin,19,439.82,2026-03-07T18:14:52.705562
+TXN_8_510_2cbf82bd,22,Provide out,Clothing,3668,David Webb,North Carrie,10,990.96,2026-02-19T19:13:56.627671
+TXN_8_511_c57e4610,43,Entire cold,Clothing,1867,William Murphy,North Kristenside,20,805.7,2026-04-20T19:26:49.093403
+TXN_8_512_efec9d07,74,Into what,Electronics,6443,Debra Smith,Thompsonmouth,11,172.1,2026-02-17T17:24:15.510483
+TXN_8_513_c9f904e6,21,Woman must,Clothing,4973,Dale Ramirez,Jillianbury,4,749.88,2026-03-03T17:42:08.275877
+TXN_8_514_adf77136,94,Even rest,Sports,6394,Kevin Washington,East Williamborough,8,732.26,2026-03-06T16:37:21.491171
+TXN_8_515_03c67e27,39,Five allow,Books,8409,Ryan Trevino,Mooreburgh,19,305.72,2026-03-08T23:50:13.062427
+TXN_8_516_d1a6b66e,92,Personal money,Electronics,2153,Peter Austin,Cruzborough,4,513.85,2026-01-22T15:52:49.594678
+TXN_8_517_a482b217,2,Sound share,Sports,3080,Aaron Myers,East Cynthia,9,847.65,2026-05-01T19:25:52.883118
+TXN_8_518_d6d7a9b2,27,Finish political,Electronics,9711,Tiffany Thomas,Port Amyhaven,16,881.22,2026-01-03T00:46:47.524283
+TXN_8_519_4c2fee20,11,Area about,Sports,7686,Lynn Byrd,Port Alexis,3,664.61,2026-05-04T23:11:51.133759
+TXN_8_520_1336c9f7,70,Treat hair,Books,2815,Kimberly Holt,East George,16,431.91,2026-03-15T08:43:23.413765
+TXN_8_521_7481ade9,84,Direction foreign,Electronics,7830,Melissa Salas,Rodriguezhaven,9,637.4,2026-05-02T09:20:10.378964
+TXN_8_522_e8e6f8ec,94,Already no,Books,4651,Denise Walters,West Lindahaven,13,838.87,2026-03-08T18:26:21.678690
+TXN_8_523_38b6e0ef,79,Price deal,Sports,9373,Devin Nguyen,East Alexanderville,10,309.74,2026-04-30T08:47:24.678590
+TXN_8_524_acca693f,6,Choice scientist,Clothing,2883,Lindsay Spencer,Lake Kevinville,13,828.51,2026-03-26T19:58:17.929328
+TXN_8_525_f7158869,21,Personal oil,Sports,5880,Alejandro Moore,South Nichole,1,440.18,2026-05-03T17:52:10.338935
+TXN_8_526_663a46d7,24,Before poor,Sports,7655,Courtney Cook,South Markton,8,276.88,2026-02-13T03:06:24.418867
+TXN_8_527_486dfc69,63,Development year,Food,8668,Amy Figueroa,Karenfort,18,129.9,2026-05-05T01:47:30.891962
+TXN_8_528_5b75519e,12,A two,Electronics,2954,Kristina Carter,Millerville,20,77.41,2026-03-09T12:18:21.079080
+TXN_8_529_9adb8d99,66,Fire pass,Electronics,7070,Angela Ellis,South Rebeccaberg,19,499.93,2026-01-27T02:32:19.826717
+TXN_8_530_f85060e7,100,Difficult any,Books,8522,Peggy Manning,Heathermouth,18,940.94,2026-05-03T19:51:07.704083
+TXN_8_531_a0d84378,7,Class detail,Books,3548,Margaret Hendricks,Matthewport,5,229.12,2026-03-02T06:12:13.531000
+TXN_8_532_9bc99f6a,25,Stage itself,Books,1882,Michelle Heath,New Mary,2,561.14,2026-01-22T14:04:11.972587
+TXN_8_533_076f9111,59,Agree range,Clothing,2115,Sydney Mckenzie,Joshuatown,15,861.4,2026-03-19T05:10:11.382723
+TXN_8_534_73b75ccf,81,Opportunity daughter,Electronics,7495,Corey Moore,East Kristenland,7,334.51,2026-03-07T23:45:12.991493
+TXN_8_535_1175899f,18,Manager for,Electronics,5946,Michael Watson,South Travisburgh,2,792.92,2026-04-28T09:09:33.627914
+TXN_8_536_1723ac02,24,Value wind,Electronics,8585,Nathan Bennett,Stephensburgh,11,833.55,2026-02-04T11:50:56.880400
+TXN_8_537_dc19d8cf,99,Money budget,Clothing,3421,Patty Small,West Ashley,15,420.82,2026-03-06T19:27:02.573188
+TXN_8_538_b103ac85,78,Leg sometimes,Sports,3708,Jennifer Walker,Craigville,6,84.81,2026-03-10T17:55:13.236288
+TXN_8_539_a798b040,50,Sister fund,Food,9752,Tanya Wilson,Port Kellie,10,30.03,2026-02-26T00:39:17.512664
+TXN_8_540_1c7a19bf,56,Fast law,Clothing,7774,Brittany Gardner,Gonzalesville,13,211.98,2026-01-26T16:22:37.747671
+TXN_8_541_ef0928cc,50,Prepare nor,Clothing,2499,Douglas James,Kevinberg,15,269.97,2026-02-19T21:27:43.794961
+TXN_8_542_a1b12a39,71,Teacher remember,Food,4498,Leslie Phillips,Alexanderberg,17,562.96,2026-01-15T02:29:22.922966
+TXN_8_543_2f873e33,90,Recently others,Sports,6940,Rachel Houston,Stevenstad,1,283.44,2026-04-18T19:02:04.752367
+TXN_8_544_f514d779,96,Night serious,Sports,1524,Steven Lewis,Port Karen,14,520.14,2026-04-11T11:46:02.395291
+TXN_8_545_3484309f,98,Worker effect,Books,1081,Kimberly Norris,New Rebecca,4,78.53,2026-03-12T13:47:48.868649
+TXN_8_546_141c51e4,31,Behind time,Food,5889,Richard Krause,Dixonton,10,798.42,2026-04-02T13:04:46.567199
+TXN_8_547_abab3a1c,55,Woman budget,Clothing,1926,Brianna Ford,Lake Anthonyborough,7,484.45,2026-02-21T19:55:36.007522
+TXN_8_548_6a397aee,50,Cup market,Sports,2235,Mr. Taylor Bush,New Henry,3,668.1,2026-03-17T10:03:53.876732
+TXN_8_549_7b163766,100,Left bill,Food,2995,Laura Jenkins,South Scott,5,537.95,2026-01-16T23:16:42.840880
+TXN_8_550_f4482cd4,93,While over,Electronics,8460,Charles Nelson,Samueltown,16,909.29,2026-02-28T09:39:41.234301
+TXN_8_551_27c1f433,35,Executive hotel,Food,6889,Ronald Chapman,Ortizfort,11,308.36,2026-03-31T00:33:48.417775
+TXN_8_552_500a1dce,78,Huge both,Books,9260,Nichole Martinez,West John,2,259.14,2026-01-03T18:50:32.511073
+TXN_8_553_7cbc1866,24,Style space,Electronics,2345,Kayla Newton,Jessicaview,8,838.19,2026-01-22T03:47:06.136742
+TXN_8_554_d15eab30,25,Moment professor,Books,6258,Matthew Long,Maryfort,16,678.12,2026-01-31T17:46:46.681161
+TXN_8_555_501c4b83,37,Almost rather,Sports,2489,Dustin Thomas MD,Hansonville,18,401.6,2026-03-03T08:01:46.383953
+TXN_8_556_6114ced4,35,Model step,Electronics,2497,Joseph Dunn,Amandafurt,18,704.2,2026-03-28T10:06:19.419039
+TXN_8_557_4d03b451,98,Spring course,Books,4546,Steven Shields,Sarahstad,5,66.27,2026-01-07T16:48:34.819164
+TXN_8_558_83571dbf,6,Defense along,Clothing,6448,Amanda King,Sandersmouth,12,185.9,2026-01-27T03:03:08.481656
+TXN_8_559_36638350,96,Letter court,Books,5439,Heather Tyler,Willisland,9,549.89,2026-02-17T10:15:35.769933
+TXN_8_560_a7c61e17,100,Medical room,Sports,3774,Katrina Smith,Port Gwendolyn,12,415.3,2026-05-08T18:49:21.317656
+TXN_8_561_00868c94,2,Fight trade,Books,7328,Jorge Allen,North Rebecca,2,303.02,2026-03-21T14:55:40.774176
+TXN_8_562_da905702,69,Difficult thank,Electronics,3861,Rachel Green,South Andrew,18,793.64,2026-03-29T00:18:04.671973
+TXN_8_563_74e5ba94,50,Occur section,Food,3946,Bethany Tyler,Emilyton,4,800.0,2026-04-02T14:09:12.054594
+TXN_8_564_1c4c7050,17,Join use,Clothing,5270,Elizabeth Mitchell,Port Ericchester,13,767.85,2026-03-23T10:03:40.463044
+TXN_8_565_606ad4a3,84,Nearly stay,Electronics,6037,Michael Yang,Brianville,16,539.68,2026-01-06T21:23:08.648416
+TXN_8_566_c84c2611,98,Up measure,Books,8268,Nathan Walls,East Jill,12,431.73,2026-01-25T18:55:01.803730
+TXN_8_567_b8b000c0,10,Nor middle,Food,5752,Michael Casey,Port Rachel,5,53.58,2026-01-13T01:58:01.839235
+TXN_8_568_fc3fa35c,92,View eat,Clothing,1374,Gina Bishop,New Joyland,14,634.66,2026-01-02T11:23:34.211838
+TXN_8_569_9c1ed756,2,Catch eight,Sports,6547,Destiny Harvey,West Kaylatown,2,867.86,2026-05-02T15:51:27.807455
+TXN_8_570_29206753,89,Force knowledge,Sports,3967,Crystal Tucker,West John,13,712.05,2026-03-02T05:39:00.150100
+TXN_8_571_c675c01d,42,Two pressure,Clothing,8963,Stephen Davis,Douglasborough,11,361.89,2026-03-27T01:38:13.217281
+TXN_8_572_99ea3f2c,37,Work choice,Books,3539,Caroline Johnson,Lisachester,16,592.33,2026-02-19T13:16:59.289088
+TXN_8_573_b80d0ccd,16,According bad,Clothing,2650,Jennifer Lee,Brendamouth,12,602.06,2026-02-22T19:02:56.366061
+TXN_8_574_e7875ce9,90,Health follow,Clothing,2830,Samantha Jones,East Jessica,11,291.55,2026-03-06T10:38:02.571006
+TXN_8_575_8a2925b0,78,Still land,Books,8569,Joseph Austin,Gambleberg,7,178.68,2026-02-22T19:36:59.010966
+TXN_8_576_0ae3a2e1,61,Field grow,Sports,3568,Kevin Wiley,West John,15,679.14,2026-04-16T09:00:31.484221
+TXN_8_577_67dc0b26,72,Street describe,Electronics,9944,Stephanie Beasley,Marshallbury,6,770.58,2026-03-10T03:13:48.120247
+TXN_8_578_2812e1ad,89,Friend knowledge,Sports,3521,Mark Stephens,Barkerstad,2,456.65,2026-03-22T01:25:50.477213
+TXN_8_579_0f6612f3,90,Vote memory,Food,9290,Stacy Harper,Barbaraport,10,267.34,2026-03-04T19:50:23.254671
+TXN_8_580_4857626a,46,Mention money,Sports,9566,Mrs. Yolanda Barnes,Annetteland,13,509.31,2026-04-13T07:28:31.162546
+TXN_8_581_13e94c79,39,Here financial,Sports,8029,Charles Ford,Michaelton,14,842.24,2026-05-06T10:58:09.968877
+TXN_8_582_0458bc34,4,Side half,Clothing,7572,Donna Suarez,New Amberville,4,329.1,2026-01-12T13:11:49.505113
+TXN_8_583_3720fbf9,75,Power news,Books,8384,Lisa Reynolds,North Thomas,7,813.74,2026-03-03T02:56:47.638335
+TXN_8_584_a6ab056d,81,Activity condition,Sports,8683,Erica Luna,Port William,8,202.77,2026-02-12T03:01:07.352134
+TXN_8_585_27f571b6,18,Candidate later,Electronics,4663,Scott Griffin,Johnchester,10,622.41,2026-01-23T06:03:01.054728
+TXN_8_586_637c1f56,82,Next Mr,Books,1592,Michael Juarez,North Rachel,12,76.22,2026-03-16T09:04:33.059196
+TXN_8_587_529b9a2f,38,Goal top,Sports,7982,Brenda Morris,East Andreaborough,9,233.77,2026-04-19T16:25:47.919160
+TXN_8_588_087862b7,5,Culture question,Electronics,5437,Emily Ruiz,Lake Chadville,7,478.95,2026-01-06T05:00:11.709298
+TXN_8_589_e0512bd6,35,Find community,Clothing,2315,Destiny Franco,Jasonburgh,3,944.81,2026-05-05T16:27:08.449476
+TXN_8_590_fba663ad,56,Beat conference,Electronics,9642,Angel Cobb,Alexismouth,15,14.26,2026-03-06T07:38:45.969438
+TXN_8_591_5d521bef,91,Support across,Sports,8364,Dennis Jones,East Timothy,18,586.31,2026-03-14T14:02:21.597557
+TXN_8_592_fb5c9aba,28,President ability,Books,6210,Luis Smith,Seanhaven,13,617.86,2026-03-31T02:59:56.726472
+TXN_8_593_c1e4ee72,19,Focus result,Electronics,1239,Charles Stout,South Renee,12,858.6,2026-01-04T08:14:23.725992
+TXN_8_594_30183959,37,All concern,Electronics,8601,Jennifer Flores,North Megan,12,917.19,2026-04-19T06:46:50.288470
+TXN_8_595_bfb16cd0,45,National those,Food,2237,Tammy Gray,Romerotown,11,608.45,2026-02-06T08:21:33.215418
+TXN_8_596_00ba213c,30,Defense candidate,Books,8007,Valerie Whitehead,Matthewsshire,19,798.3,2026-04-26T02:43:12.828886
+TXN_8_597_9926a0ca,44,Ok look,Clothing,5349,Amy Robinson,West Joseph,17,945.91,2026-01-03T15:23:41.606790
+TXN_8_598_3ce806ac,3,College necessary,Food,8320,Alexis Gregory,Reginaldfort,12,155.29,2026-01-15T13:14:19.974070
+TXN_8_599_52c738e6,40,Should leave,Electronics,6533,Shannon Jones,Anthonyfort,12,921.7,2026-03-17T11:19:27.354602
+TXN_8_600_e446b1f2,44,Force year,Electronics,2363,John Adkins,Wardport,10,234.3,2026-02-15T14:29:00.197946
+TXN_8_601_75c12fb5,43,Industry establish,Clothing,1689,Richard Moran,Shannonstad,13,116.38,2026-03-10T05:11:14.289420
+TXN_8_602_65d73473,1,Option value,Sports,4701,Elaine Lewis,Jackieshire,17,477.64,2026-02-04T01:24:26.970578
+TXN_8_603_fd0ec711,67,Matter stage,Electronics,8573,Diane Smith,New Jamesberg,15,402.54,2026-01-19T02:32:00.224081
+TXN_8_604_40e61748,19,Board benefit,Clothing,2199,Connor Cordova,Karenborough,7,142.59,2026-05-04T14:14:02.554445
+TXN_8_605_39d228d1,82,Success black,Food,4362,Chase Torres,Martinhaven,14,859.5,2026-03-03T12:15:35.326335
+TXN_8_606_0f169fa1,32,Purpose lawyer,Books,4565,Summer Bradshaw,Lake Daniel,12,747.01,2026-01-09T01:17:13.918297
+TXN_8_607_7da620ca,46,Course lay,Sports,8456,Patricia Lloyd,Andersonville,10,443.46,2026-04-04T16:05:16.660831
+TXN_8_608_9efb5feb,71,Lead most,Sports,7898,Mr. Matthew Carlson,Port Michellechester,14,516.38,2026-04-29T19:14:49.500865
+TXN_8_609_14476e78,14,She receive,Sports,4480,Stephen Carlson,West Dustinview,5,47.04,2026-01-29T02:51:52.152178
+TXN_8_610_2e95109a,25,Seem generation,Sports,5206,Nathan Davis,South Heatherton,1,90.99,2026-01-14T19:40:53.376987
+TXN_8_611_61650cad,96,Clearly tax,Food,6371,Wanda Colon,Danielfort,13,663.29,2026-04-08T15:08:56.826266
+TXN_8_612_3fad2de4,90,Month amount,Books,8507,William Hart,Fishermouth,3,651.53,2026-02-12T00:10:52.456547
+TXN_8_613_dbd88acf,86,Time card,Sports,5958,Dawn Krause,East Ashleyton,20,425.96,2026-04-26T14:35:47.878359
+TXN_8_614_ba8c18d3,68,Blue little,Clothing,3800,Zachary Martinez,North Justin,9,268.29,2026-01-11T12:50:07.361830
+TXN_8_615_740658e2,65,Center board,Sports,3183,Dawn Riley,Melodyside,5,981.15,2026-05-01T00:51:30.074712
+TXN_8_616_28eaeb9f,54,Alone how,Clothing,1484,Tara Larsen,East Cassandraborough,18,309.99,2026-02-19T05:07:30.166054
+TXN_8_617_c4b35e5b,3,Money first,Sports,2804,John Hatfield,Patrickburgh,17,762.38,2026-03-24T17:29:44.675264
+TXN_8_618_d19db144,88,Name government,Electronics,5417,Anthony Watson,Lake Brian,1,291.83,2026-01-29T13:41:38.440018
+TXN_8_619_d1d1d7f7,9,Across look,Books,5166,Brandon King,Lake Jonathanland,5,941.71,2026-02-14T18:18:42.079896
+TXN_8_620_08ac2458,71,Mind national,Clothing,4163,Brian Blanchard,Lake Jennifershire,11,412.57,2026-03-07T20:36:06.538894
+TXN_8_621_e8c9325c,95,Month fall,Food,4350,Becky Campbell,Port Brendaton,6,309.49,2026-01-09T14:35:30.735158
+TXN_8_622_831a7b90,62,Left off,Sports,4969,Dale Carpenter,South Nicholaston,12,546.76,2026-01-12T13:47:55.379056
+TXN_8_623_0da961d9,23,Foot save,Clothing,2376,Aaron Brady,Michaelbury,3,963.1,2026-04-10T08:06:21.190983
+TXN_8_624_eb80f2e9,64,Total exist,Food,1982,Joshua Torres,Port Dwayneport,1,583.23,2026-03-29T04:17:03.122893
+TXN_8_625_311717da,56,Detail capital,Clothing,8752,James Burton,Johnstad,6,107.09,2026-02-08T16:50:24.526696
+TXN_8_626_89711690,38,Hit organization,Food,2593,Scott Bradley,Matthewton,8,360.71,2026-03-03T11:23:23.769449
+TXN_8_627_068516ac,93,Trade moment,Food,7930,Antonio Myers,Walkerland,18,128.66,2026-03-27T23:53:43.108148
+TXN_8_628_114ea611,10,Public world,Food,5614,Erin Watson,Adamsfurt,11,163.17,2026-03-27T20:47:26.622476
+TXN_8_629_d01d8786,24,Soon meeting,Books,1935,Leslie Davis,East Elizabethland,10,553.79,2026-01-23T06:09:55.742384
+TXN_8_630_4a0469f5,72,Summer six,Sports,6033,Joseph Phillips,South Gregory,11,327.06,2026-05-03T19:37:30.110847
+TXN_8_631_b56b8f64,68,Win I,Books,3212,Marie Wheeler,Jenniferside,10,572.94,2026-03-09T09:32:43.829998
+TXN_8_632_f5435d15,20,Speak same,Clothing,8775,Daniel Casey,Elizabethport,19,825.55,2026-04-25T13:16:48.418258
+TXN_8_633_7e1c5800,20,Probably point,Clothing,6438,Sarah Cline,Lake Brian,16,591.35,2026-05-02T00:19:00.878884
+TXN_8_634_b18cb714,43,Strategy exist,Electronics,9654,Deborah Lee PhD,West Peggyshire,20,762.35,2026-02-28T23:06:06.293094
+TXN_8_635_937a999d,50,Live onto,Electronics,4611,Cory Guerrero DDS,New Daniel,10,935.12,2026-01-07T16:06:43.281243
+TXN_8_636_cb2d89d4,36,See toward,Clothing,8065,Michael Cooper,West Stephanie,19,505.64,2026-03-19T02:43:05.404988
+TXN_8_637_4ebec5f9,65,Me some,Food,5819,Pamela Oliver,Nicholasfort,5,581.18,2026-03-15T17:37:16.437232
+TXN_8_638_74e39abf,31,Structure power,Sports,8386,Jerry Tran,Hannahtown,8,409.36,2026-02-22T21:12:00.186650
+TXN_8_639_d4dbca54,49,Table another,Food,7503,Michael Ray,Lake Kyle,17,564.39,2026-01-16T22:07:36.516358
+TXN_8_640_b97fe386,67,Official cut,Food,4454,Amy Fitzgerald,Port Sherry,17,429.2,2026-04-24T16:15:25.388069
+TXN_8_641_6c2b9baf,21,Indicate position,Sports,6797,Alexis Baldwin,South Jessicafort,8,42.85,2026-04-10T03:12:41.266985
+TXN_8_642_a748edee,71,Front new,Books,8358,Dawn Lopez,Lake Justinborough,10,510.98,2026-03-08T18:42:57.805096
+TXN_8_643_3da9366b,39,Deep leave,Books,8979,Alejandra Hayes,Port Phyllis,13,248.5,2026-02-20T21:04:48.468394
+TXN_8_644_60ab9ab5,88,Late picture,Books,8225,Roy Sanchez,Davisview,4,573.83,2026-01-10T13:14:31.177134
+TXN_8_645_68c979f1,20,Send example,Clothing,5258,Brittany Silva,Matthewshire,17,980.04,2026-03-22T23:30:05.507561
+TXN_8_646_8c26c927,41,Result weight,Books,7034,Jennifer Ponce,Jamiestad,17,913.43,2026-03-11T03:22:00.092294
+TXN_8_647_39c034fa,38,Policy summer,Electronics,1410,Megan Mcdaniel,New Donald,7,753.58,2026-04-14T15:55:13.738547
+TXN_8_648_ab77f404,13,Sport PM,Clothing,3183,Tracy Sloan,Kennedyton,1,473.89,2026-02-22T11:05:58.211204
+TXN_8_649_5af33c7a,56,Car also,Clothing,4852,Shawn Gardner,Angelashire,17,477.3,2026-03-31T23:46:37.704016
+TXN_8_650_b8876fc1,37,Set value,Clothing,9858,Nicole Lee,New Sharibury,9,202.71,2026-04-18T10:20:24.691646
+TXN_8_651_fa06367d,52,Magazine report,Sports,6767,Kevin Thompson,Melissafort,12,813.49,2026-02-03T02:17:38.285195
+TXN_8_652_cedeef74,26,Idea him,Electronics,2173,Deanna Logan,New Peter,13,755.78,2026-05-06T21:21:35.361535
+TXN_8_653_beab0088,46,Make increase,Food,3516,Kimberly Campbell,Shelbyton,17,454.23,2026-03-22T15:52:46.059550
+TXN_8_654_5cafd34d,84,Lose life,Clothing,3399,Leslie Anthony,Antonioberg,4,61.48,2026-05-01T02:15:46.308491
+TXN_8_655_e3690d77,23,Indeed Mr,Sports,8156,Phillip Robertson,Haynestown,15,929.68,2026-01-04T20:10:20.897629
+TXN_8_656_d0c43ff9,56,Some generation,Clothing,2841,Sarah Perez,East Alexander,15,134.65,2026-04-01T01:38:13.227750
+TXN_8_657_bf913a92,37,Since despite,Electronics,8033,Monique King,East Tonyashire,1,852.72,2026-01-23T07:57:30.737273
+TXN_8_658_0e7134ec,84,Wife current,Books,1061,Carl Hall,Thomaschester,5,761.5,2026-02-22T03:21:57.138838
+TXN_8_659_f7305033,45,Member feel,Food,2086,Larry Davidson,Edwardshaven,11,981.64,2026-02-27T02:44:54.167657
+TXN_8_660_6bc25047,98,Front sometimes,Sports,1287,Christopher Grant,East Connorton,8,784.92,2026-01-01T14:31:26.635356
+TXN_8_661_6101cfc1,15,Present gas,Clothing,9692,Jean Freeman,Fernandezmouth,16,884.99,2026-02-12T13:13:41.188162
+TXN_8_662_e21d21d4,5,Large risk,Clothing,4143,Matthew Payne,New Cherylview,17,129.55,2026-01-25T22:37:44.990520
+TXN_8_663_d8b7b1e0,18,Would food,Electronics,2962,Ashley Turner,Lake Kathleenfurt,8,93.64,2026-04-27T07:28:10.358043
+TXN_8_664_b766657a,95,Store others,Electronics,4039,Brandy Barnes,New Samantha,9,927.08,2026-04-19T11:57:03.317114
+TXN_8_665_083be4e5,88,Coach admit,Sports,3452,Richard Boyd,West Erika,6,816.58,2026-02-09T06:59:05.013905
+TXN_8_666_e64fcecc,18,Personal figure,Sports,2223,Madison Christensen,North Tiffany,9,937.06,2026-02-19T14:42:50.755348
+TXN_8_667_3b15806f,95,Nothing learn,Clothing,8222,Shannon Collins DVM,New Jamiestad,17,804.23,2026-01-11T12:39:57.294959
+TXN_8_668_25178e7f,78,Somebody news,Sports,6332,Robert Morris,Jayfurt,10,916.98,2026-04-14T06:25:45.269056
+TXN_8_669_7d4bf0f6,55,Simple happen,Books,8020,Amy Harvey,Andersonhaven,17,494.63,2026-01-15T21:56:25.016216
+TXN_8_670_a60c99d1,25,Tough second,Electronics,5869,Dr. Albert Kelly,East Gary,16,384.4,2026-02-18T15:32:18.824487
+TXN_8_671_72bf0898,81,Weight memory,Sports,3698,David Sanders,Nicholasshire,15,307.56,2026-02-05T05:37:43.716619
+TXN_8_672_31a0c242,98,Son night,Sports,2411,Michael Taylor,Port Loriland,20,195.49,2026-02-27T20:49:45.025362
+TXN_8_673_7765b57d,13,Very new,Food,1659,Ronald Robbins,New Christinaburgh,9,889.34,2026-05-07T00:49:24.304787
+TXN_8_674_00440cf4,45,Very Mrs,Clothing,1865,Whitney Dixon,Catherinefort,1,223.22,2026-05-04T09:32:01.930132
+TXN_8_675_feac4cb2,56,Western nor,Food,9720,Lisa Shaw,North Rachel,13,768.1,2026-02-17T03:00:37.236677
+TXN_8_676_0dfe4952,52,Reality agreement,Food,1404,Ronald Lopez,Langfort,20,940.41,2026-01-26T07:30:12.109479
+TXN_8_677_99924a72,45,Boy want,Food,1593,Brian Stephenson,North Ericaview,16,207.04,2026-02-03T08:44:47.253285
+TXN_8_678_e98a5d45,38,Us realize,Food,2356,Robin Wood,Lake Douglasborough,13,348.15,2026-04-30T14:27:43.519855
+TXN_8_679_7140fe3f,78,Two spring,Books,7239,Noah Rodriguez,Jamesmouth,17,27.19,2026-01-18T06:27:45.776442
+TXN_8_680_45fac1db,41,Improve big,Food,2431,Michael Johnson,Angelatown,15,734.78,2026-01-17T17:17:42.526486
+TXN_8_681_f9eeb763,83,Yourself seek,Sports,5653,Charles Pittman,Clarkport,1,781.05,2026-04-03T15:32:07.805170
+TXN_8_682_afad0188,78,These as,Food,4419,Diamond Smith,Townsendland,11,140.16,2026-02-11T23:17:41.921139
+TXN_8_683_b076e041,60,Model home,Clothing,6322,Jasmine Martin,Karenton,2,433.11,2026-04-14T12:46:45.739219
+TXN_8_684_5c25e663,5,Between bit,Sports,1398,Isaac Carlson,Barrettshire,20,164.5,2026-05-03T19:41:06.545721
+TXN_8_685_e979d24c,7,Follow drop,Food,7378,Victor Collins,South Nicholas,5,241.09,2026-03-15T23:57:23.237473
+TXN_8_686_63b11c66,9,Generation discover,Sports,2335,Tamara Miller,West Coreyport,13,216.82,2026-03-15T03:37:02.803683
+TXN_8_687_85acb431,74,His information,Clothing,8426,Bobby Tucker,Lake Danielshire,8,24.25,2026-03-13T10:28:15.760179
+TXN_8_688_e5b1636f,38,Represent including,Clothing,3281,Dr. Krystal Ramirez,New Johnbury,2,101.13,2026-04-02T23:40:51.637441
+TXN_8_689_d940aa1b,81,Future bag,Books,2969,Jennifer Jackson,West Johnborough,4,762.76,2026-04-04T16:45:57.936445
+TXN_8_690_058d7dfc,72,Finish suffer,Sports,1894,Eric Carter,East Nancy,7,608.03,2026-03-15T05:53:55.258245
+TXN_8_691_106b4f3f,90,President her,Books,3086,Sara Hodges,Jamesburgh,3,520.49,2026-02-19T12:28:01.535685
+TXN_8_692_fe4b5c72,94,Fight manage,Sports,7742,Dr. Carl Sawyer,Michaelmouth,15,508.94,2026-02-02T10:02:24.812650
+TXN_8_693_57ca9b9f,12,Focus cup,Food,3946,Kathleen Herring,North Rodney,7,738.74,2026-02-28T09:35:31.340407
+TXN_8_694_4d5718cd,48,Relate natural,Food,1790,Mary Reynolds,Amymouth,8,954.24,2026-02-12T04:52:05.861354
+TXN_8_695_17c4fedc,90,Thank something,Electronics,9108,David Lynch,Johnsonstad,6,221.44,2026-02-23T03:45:52.943501
+TXN_8_696_127f7d70,76,Week lose,Books,2667,Megan Brown,Davisville,8,418.06,2026-02-23T23:19:38.397380
+TXN_8_697_80b5ddb6,80,Those interest,Books,5024,Daniel Williams,Port Susan,10,784.62,2026-03-01T02:43:56.498179
+TXN_8_698_bc6a3604,84,Full building,Clothing,6634,Tammy Wyatt,Odomchester,11,344.22,2026-03-02T10:58:56.832428
+TXN_8_699_aebe035e,3,Almost country,Electronics,7016,Shannon Novak,Jamesfurt,5,421.51,2026-04-11T00:30:30.200702
+TXN_8_700_7b1fed39,15,Chance song,Sports,9132,Marissa Petersen,West Brandy,14,316.86,2026-04-30T06:51:43.150797
+TXN_8_701_df8c9361,70,With dream,Books,2619,Brandy Stone,East Donnahaven,12,592.4,2026-04-21T02:10:45.583277
+TXN_8_702_740bdc90,93,At front,Books,8256,Holly Williams,New Kendrafurt,12,734.9,2026-04-02T07:32:27.725323
+TXN_8_703_dc89d07e,3,Safe stop,Sports,3447,Daniel Elliott,Warrenburgh,12,884.4,2026-01-22T04:53:22.133479
+TXN_8_704_f0b3e590,62,Night those,Electronics,3819,William Arellano,North Kevin,6,955.83,2026-04-03T16:32:53.158634
+TXN_8_705_a5a0a0d5,38,Religious above,Books,6768,Elizabeth Baker,Jonathanfurt,20,383.4,2026-02-10T16:39:29.246788
+TXN_8_706_501f6762,32,Chance really,Electronics,3745,Eric Smith,Walkerport,1,578.4,2026-04-30T19:17:38.299327
+TXN_8_707_e58a816c,72,Term either,Sports,2690,Adam Ward,Johnsonmouth,7,422.1,2026-04-18T06:34:27.960945
+TXN_8_708_e315c442,14,West born,Books,5622,Lisa Freeman,Lake Kenneth,18,674.54,2026-04-22T16:54:12.970370
+TXN_8_709_6e1472f8,19,Place scene,Clothing,3097,Jonathan Jones,Martinberg,11,455.71,2026-02-13T14:57:51.293573
+TXN_8_710_e70ccbb2,75,Red trouble,Food,8083,Lisa Huynh,West Scottchester,9,448.6,2026-03-29T01:51:26.955541
+TXN_8_711_1020f445,15,Good rock,Electronics,5021,Lori Kramer,Sanchezville,19,547.21,2026-04-29T23:09:35.502772
+TXN_8_712_6d07815a,42,Others able,Sports,1717,Phillip Ayers,Campbellside,20,87.36,2026-02-20T21:16:36.259603
+TXN_8_713_412c9c36,6,Shoulder forward,Clothing,9366,Emily Robertson,Teresafurt,14,517.65,2026-04-29T20:09:36.679412
+TXN_8_714_f6e07f5e,13,Fire involve,Electronics,1480,Kimberly Austin,Obrienport,10,512.75,2026-04-05T06:44:13.193786
+TXN_8_715_1513b5fb,46,Forward sign,Books,4711,Brenda Sanders,New Johnburgh,12,195.6,2026-04-14T07:29:37.537683
+TXN_8_716_8bd5baea,92,Research visit,Food,8342,Juan Johnson,Lake Roberto,10,180.5,2026-01-13T00:11:19.468401
+TXN_8_717_bc3946c9,95,This activity,Sports,2087,Sara Ayers,Lake Johnberg,9,699.57,2026-03-07T15:41:02.442344
+TXN_8_718_9c26e75b,91,Too remain,Books,6110,Christopher Lynch,West Jasonbury,12,386.93,2026-01-12T10:31:22.047932
+TXN_8_719_18c5008d,94,Capital case,Electronics,4595,Christine Hurst,Houstontown,10,152.61,2026-01-26T02:35:50.821344
+TXN_8_720_878c8f80,84,Cause party,Books,1779,Keith Duke,Lake Kathryn,5,182.51,2026-04-11T08:39:48.908572
+TXN_8_721_84cc92d6,70,Wish old,Electronics,4503,Karen Myers,Floydhaven,3,779.75,2026-02-12T00:59:55.625643
+TXN_8_722_0da0b682,11,Our fear,Clothing,1086,Andre Rhodes,New Jennifer,4,999.23,2026-01-13T10:24:27.367770
+TXN_8_723_c941b626,85,Kitchen fire,Books,4133,Johnny Tapia,Lake Amberberg,2,235.69,2026-04-16T14:40:33.665158
+TXN_8_724_9a189823,89,Find east,Electronics,1400,Joyce Rhodes,Craigton,10,589.97,2026-04-13T04:23:34.994284
+TXN_8_725_b484179c,24,School traditional,Food,9665,George Bush,Theresaview,7,672.5,2026-01-12T18:40:06.610254
+TXN_8_726_3adcfdfb,29,Name player,Clothing,4864,Deborah Ross,Flemingberg,8,587.0,2026-01-07T22:01:46.284429
+TXN_8_727_85e5e373,69,Statement better,Sports,8552,Carol Barnes,West Nicolebury,13,529.27,2026-02-09T17:19:55.629978
+TXN_8_728_65784277,45,Than board,Food,4961,Kimberly Butler,Meganland,19,228.85,2026-04-08T02:32:03.325209
+TXN_8_729_683cd370,56,Kid task,Sports,2663,Christina Perry,Lauriehaven,17,982.69,2026-05-06T11:06:11.182019
+TXN_8_730_eb153021,59,First understand,Electronics,2806,William Hampton,Sextonberg,13,586.09,2026-02-20T08:52:16.777602
+TXN_8_731_e0b29c11,12,Hear herself,Sports,1199,Marilyn Rodriguez,Rodneyshire,2,472.83,2026-01-02T19:38:22.619182
+TXN_8_732_54b37e3c,96,Stage decision,Electronics,6982,Christian Maxwell,East Sarahtown,12,138.96,2026-01-08T06:57:34.187871
+TXN_8_733_9cfe98bd,97,Let lot,Clothing,1897,Jeffrey Buck,Floresview,17,90.71,2026-03-08T21:43:58.685991
+TXN_8_734_7064835b,21,Even others,Electronics,2318,Andrew Jackson,New Allen,18,258.92,2026-04-10T18:19:21.572127
+TXN_8_735_5e336876,85,Audience say,Books,1774,Jeffrey Burns DVM,Sullivanshire,6,851.71,2026-05-05T22:14:44.610264
+TXN_8_736_e82ba4d9,22,Threat individual,Clothing,9070,Nina Perez,Kruegerbury,1,611.44,2026-03-23T14:42:54.374494
+TXN_8_737_423aa0a2,53,Note performance,Sports,7859,Mike Hamilton,New Angela,2,442.53,2026-02-13T13:38:43.401814
+TXN_8_738_e144f7b6,80,Painting inside,Electronics,7910,Ronald Weaver,South Alanport,15,377.49,2026-02-13T23:53:53.833609
+TXN_8_739_34cde59d,30,Campaign wind,Clothing,1659,Ian Mathis,East Christopherview,17,53.32,2026-03-13T09:51:08.858593
+TXN_8_740_88883501,95,Wrong drop,Clothing,9166,Nathan Cantu,Andreaburgh,10,493.41,2026-02-15T13:27:14.874337
+TXN_8_741_aa960243,99,Allow since,Clothing,3611,Kathleen Huffman,New Christine,1,388.07,2026-01-11T21:52:14.264790
+TXN_8_742_92c3b4c0,96,Agree he,Sports,2227,Elizabeth Leonard,Carolineton,15,748.65,2026-02-03T21:36:55.470837
+TXN_8_743_f9ab73fd,9,Plan local,Sports,3668,Brittney Brown,Dixonfort,16,486.22,2026-01-23T09:49:01.407970
+TXN_8_744_0f90ba35,90,Affect carry,Books,3424,Robin Hall,North Bobby,1,902.64,2026-02-24T16:57:21.383436
+TXN_8_745_c501a58a,86,Official front,Sports,9934,Troy Zimmerman,Seanside,20,807.03,2026-02-03T13:10:37.838380
+TXN_8_746_0662fbe3,99,Issue south,Sports,5003,Brandon Mata,Adamshire,6,473.86,2026-03-09T21:33:56.624917
+TXN_8_747_f6e14324,26,Cut outside,Clothing,9090,Katelyn Rodriguez,Kaylatown,17,314.06,2026-04-27T17:36:18.050632
+TXN_8_748_35102909,43,Bag customer,Clothing,4868,Justin Murray,Rochahaven,13,917.44,2026-04-02T07:43:09.521255
+TXN_8_749_447cb60e,53,Month particular,Electronics,3324,Jennifer Sanders,Samanthaborough,2,251.0,2026-03-12T20:25:16.332563
+TXN_8_750_80ff2d29,16,Cold gun,Books,2453,Keith Johnson,West Dana,6,324.99,2026-03-01T20:53:13.898520
+TXN_8_751_97b5fc94,66,You almost,Electronics,3564,Donna Castillo,Caitlynchester,14,873.61,2026-01-06T18:10:38.316783
+TXN_8_752_016e5f8e,93,Foreign exist,Sports,3031,Kyle Smith,East Brandon,18,642.96,2026-01-29T17:06:24.474661
+TXN_8_753_49ba6730,36,Economy store,Sports,9115,Wendy Ayers,Chapmanchester,14,251.63,2026-02-17T10:10:59.293868
+TXN_8_754_cd37fd04,50,Certainly wish,Sports,4440,Deborah Coleman,Port Donna,12,923.13,2026-02-09T14:33:49.526924
+TXN_8_755_c3e764ad,73,Success speech,Food,9402,Thomas Morgan,South Crystal,17,306.61,2026-03-28T21:37:54.101444
+TXN_8_756_2de42284,56,Worker country,Clothing,3344,Ryan Thomas,Hillborough,18,106.58,2026-03-24T04:52:27.417970
+TXN_8_757_d982a66c,77,All own,Books,9571,Kevin Hicks,Nashstad,17,570.17,2026-05-08T05:21:35.324260
+TXN_8_758_f641e2b3,60,Would strategy,Sports,6162,Margaret Russell,New Vicki,15,142.15,2026-01-21T12:19:17.951661
+TXN_8_759_eaca7fae,97,These indicate,Books,8410,Jorge Garza,New Mitchellview,20,567.4,2026-05-05T11:45:03.535272
+TXN_8_760_7781702f,18,Role see,Electronics,5677,Mary Morris,New Connieland,1,601.46,2026-03-05T22:03:19.361607
+TXN_8_761_a7c9b69c,46,Civil why,Clothing,9820,Kelly Cabrera,Mitchelltown,10,841.53,2026-03-05T12:35:23.327121
+TXN_8_762_60a46e71,70,Information on,Sports,2959,Nicholas Williams,Davidburgh,16,488.43,2026-04-25T11:34:01.166365
+TXN_8_763_120beea4,98,Day whatever,Food,8332,David Townsend,Annaport,1,616.88,2026-01-05T16:34:26.479062
+TXN_8_764_e0f7dca7,30,Opportunity world,Books,2997,Stacey Ellison,Jaclynburgh,4,544.83,2026-02-07T10:11:41.247765
+TXN_8_765_fbf969dd,12,Ground must,Clothing,2314,Alejandro Bell,South David,6,785.58,2026-01-23T20:28:57.353111
+TXN_8_766_25c23ae7,35,Nation close,Sports,2414,Melinda Adams MD,Wyattberg,13,329.17,2026-04-05T22:21:59.029517
+TXN_8_767_24d00950,36,Fine rule,Clothing,5468,Lynn Wilson,Josephfurt,18,983.08,2026-04-21T11:01:17.378653
+TXN_8_768_eb375cb9,54,Grow event,Sports,9694,Matthew Harris,West Kevin,3,157.32,2026-01-05T09:40:44.861963
+TXN_8_769_dcd09117,80,Challenge with,Sports,2717,Kristen Palmer,Port Adamland,11,691.88,2026-02-22T17:57:43.109837
+TXN_8_770_a91eece1,83,Enjoy song,Books,8661,Steven Brown,West Nathan,13,639.57,2026-01-12T01:57:40.165677
+TXN_8_771_5bd95d1b,96,Car voice,Food,6764,Michele Berry,Petersonfurt,5,943.21,2026-03-18T07:30:58.375583
+TXN_8_772_2e40caf8,39,Apply imagine,Electronics,1758,Vicki Brown,Port Jessica,4,813.95,2026-02-28T00:39:08.475860
+TXN_8_773_99f48d47,94,Film will,Food,9920,Helen Jones,Hernandezbury,20,837.01,2026-02-04T19:26:40.354639
+TXN_8_774_6563b788,76,Amount probably,Clothing,6779,Amy Gray,Nicholsfort,20,633.42,2026-04-30T11:46:51.529168
+TXN_8_775_6c1a338c,66,Call discussion,Electronics,4745,Kevin Lynch,Reedmouth,6,856.0,2026-04-29T18:18:11.523237
+TXN_8_776_957b87a5,20,Statement always,Sports,8290,Becky Anderson,West Laura,3,741.57,2026-01-05T18:08:46.571732
+TXN_8_777_52b515f1,1,And report,Sports,7866,Rodney Oliver,Lisaport,9,798.45,2026-01-01T03:33:06.662843
+TXN_8_778_2a62b3da,48,Tree avoid,Electronics,2112,Eric Pineda IV,Cruzberg,18,994.25,2026-02-19T21:56:20.972766
+TXN_8_779_cef2f1a6,53,Concern cell,Food,5200,Heather Burgess,New Michelle,12,921.12,2026-01-04T04:56:21.010159
+TXN_8_780_8319cbe2,29,Goal message,Sports,3275,Mark Bruce,Glennburgh,8,377.97,2026-04-04T06:19:19.065071
+TXN_8_781_fef282bb,42,Together interesting,Electronics,2890,Luke Scott,Mcintyreburgh,4,480.85,2026-04-18T16:11:46.989411
+TXN_8_782_1c376045,5,Carry read,Books,4425,Anna White,Moorehaven,14,457.86,2026-01-20T05:53:52.253751
+TXN_8_783_3f0b0c15,8,Middle pretty,Electronics,1057,Vanessa Gibson,Jasminemouth,17,146.0,2026-03-19T03:22:57.201862
+TXN_8_784_716bdab3,52,Each everything,Books,6234,Matthew Burke,Port Bonniefort,11,191.15,2026-04-09T09:54:07.367423
+TXN_8_785_a339a604,79,Financial while,Food,4521,Stephanie Figueroa,South Dylan,13,18.73,2026-01-18T16:19:11.453235
+TXN_8_786_bb77ed4f,79,Inside many,Books,6005,Edward Mccoy,Robertsborough,5,65.93,2026-01-23T11:24:15.927720
+TXN_8_787_2e901a82,67,Walk Mrs,Sports,4535,Sharon Beck,Sanchezfurt,11,680.86,2026-01-19T11:20:47.550889
+TXN_8_788_9c47b557,84,Must time,Sports,5931,Samuel Coffey,Port Tiffanyton,7,18.33,2026-01-09T10:43:15.766219
+TXN_8_789_4de52251,92,Set later,Sports,3931,Richard Beck,Port Heidiborough,19,621.04,2026-04-08T22:03:05.773519
+TXN_8_790_0c5cc969,75,Any hospital,Food,1047,Jordan Zimmerman,Barnesmouth,10,992.09,2026-03-08T07:11:52.013727
+TXN_8_791_edf73054,61,Expect area,Food,3100,David King,East Katie,14,199.1,2026-03-13T05:40:48.292141
+TXN_8_792_449b6184,18,Bad increase,Electronics,7344,Robert Thompson,Amandahaven,9,361.51,2026-03-29T06:58:57.590916
+TXN_8_793_1f1b4070,49,Bill better,Food,7071,Daniel Marshall,Port Aaronburgh,19,153.53,2026-02-18T22:42:11.813067
+TXN_8_794_c27b046d,54,Director property,Clothing,6640,Miranda Summers,Conniefort,1,525.58,2026-04-19T23:35:16.530883
+TXN_8_795_7d700fd5,48,Establish newspaper,Clothing,4545,Sarah Wade,North Connieside,12,284.53,2026-01-30T04:38:25.801844
+TXN_8_796_9eb82573,88,Easy member,Books,6053,Peter Sloan,Jessicaside,7,334.53,2026-02-09T11:23:17.923863
+TXN_8_797_b32a599f,1,Address free,Books,8409,Joseph Mclean,West Melissa,11,485.12,2026-01-13T12:22:07.480628
+TXN_8_798_36e0d921,25,Thus response,Sports,9107,Megan Patel,South Rodneyport,19,279.0,2026-03-09T03:40:44.384201
+TXN_8_799_275dfc5f,76,Recent economic,Electronics,4939,Allison Lewis,Port Johnfurt,9,375.22,2026-01-22T21:08:20.696457
+TXN_8_800_eb10b9f8,89,Million everyone,Electronics,8907,Mary Christian,Port Kim,17,750.97,2026-01-30T12:01:25.588137
+TXN_8_801_0f7d223a,41,Born agreement,Clothing,6415,Eric Johnson,Juanstad,20,488.66,2026-01-25T16:25:20.306135
+TXN_8_802_e9630e1c,87,Set believe,Books,4325,Crystal Spencer,Juanland,17,749.93,2026-01-26T11:59:31.007353
+TXN_8_803_ac28a162,15,Want green,Electronics,5011,Gregory Frost,Haneyfurt,6,813.05,2026-02-15T16:43:09.651428
+TXN_8_804_af01aabe,1,Low kitchen,Electronics,7060,Kevin Harding,Bryanmouth,5,34.4,2026-03-29T06:03:27.625677
+TXN_8_805_e5337010,99,Glass main,Electronics,4329,Michael Henry,South Garyfurt,6,62.49,2026-01-25T05:23:04.065449
+TXN_8_806_83ea1109,78,Write land,Clothing,3586,Eric Chase,Palmerport,9,996.06,2026-04-05T19:39:56.280809
+TXN_8_807_d7e54223,94,Serious nature,Electronics,4531,Todd Garrison DVM,West Christinefort,2,937.39,2026-01-21T08:04:18.910242
+TXN_8_808_08bb2514,11,Chance race,Books,4747,Sarah Robertson,Suttonstad,19,908.35,2026-02-20T07:51:23.547770
+TXN_8_809_2630295b,90,Despite speech,Sports,5706,Wesley Brown,Andersenchester,15,274.09,2026-04-30T23:22:17.326670
+TXN_8_810_d49cb7ac,34,Today blue,Sports,1682,Dan Kane,Jeffreyside,9,795.2,2026-04-10T14:06:48.112524
+TXN_8_811_ed7df479,75,Enough court,Electronics,3098,Katherine Booth,South Jasonmouth,17,152.62,2026-01-17T21:00:24.292214
+TXN_8_812_bc0f739a,20,Control happen,Sports,7058,Erin Barnes,Morganchester,14,442.12,2026-04-18T15:14:48.919646
+TXN_8_813_4d841dd0,2,School collection,Food,7634,Raymond Weaver,Davidtown,17,269.05,2026-04-24T00:37:21.562294
+TXN_8_814_bea54e45,5,Gun people,Sports,9577,Elizabeth Mclaughlin,Coxchester,9,626.32,2026-03-10T04:51:06.632226
+TXN_8_815_fa34e545,2,Risk box,Sports,6681,Elizabeth Spears,Lake Markview,10,65.23,2026-04-09T10:21:18.758984
+TXN_8_816_f3c22553,9,At seven,Clothing,8500,Tim Martinez,Lake Charleston,10,462.11,2026-02-19T17:39:18.843553
+TXN_8_817_03d39617,85,Ever daughter,Sports,8693,Craig Hernandez,Port Carl,20,598.26,2026-03-11T15:12:25.669199
+TXN_8_818_a9560c8f,55,Look investment,Food,9059,Mr. Phillip Parker,Ashleyside,3,986.04,2026-02-16T23:16:40.436439
+TXN_8_819_0c169403,52,Material more,Books,3570,Brian Salinas,Chandlerborough,18,911.81,2026-02-15T06:01:10.483469
+TXN_8_820_0e5aa615,25,Remain join,Books,8190,Bianca Williams,Moralesborough,9,605.4,2026-02-24T03:14:56.960549
+TXN_8_821_be963e58,90,Situation create,Food,4775,Benjamin Cooper,Kiddport,20,228.05,2026-03-29T20:12:02.309870
+TXN_8_822_cb4d141a,32,Oil since,Food,8597,Derek Solomon,Stephanieberg,17,15.34,2026-04-28T22:12:11.457152
+TXN_8_823_eddec8d0,16,Painting will,Books,7157,Sharon Howard,East Williamville,10,127.29,2026-01-01T00:47:10.959808
+TXN_8_824_0bf43326,49,Film real,Clothing,8709,Angela Oliver,Haydenstad,15,245.3,2026-01-13T07:49:56.823674
+TXN_8_825_c6219543,64,Worker less,Sports,9134,Angel Solis,New Douglasport,10,159.77,2026-04-09T06:13:51.654610
+TXN_8_826_56cd1a2c,16,Notice door,Food,9733,Monique Turner,Rebeccaport,18,511.82,2026-04-17T15:48:59.530566
+TXN_8_827_17c5b7b2,91,Ever its,Books,7435,John Butler,Josephshire,17,183.78,2026-02-06T05:34:13.302767
+TXN_8_828_23a040ae,90,Seem whether,Clothing,6653,David Kim,Hamptonview,2,875.61,2026-02-01T13:22:45.052224
+TXN_8_829_71d4c6aa,49,Attention bag,Electronics,7638,Michelle Taylor,North Jesseburgh,10,831.73,2026-05-04T15:33:52.629376
+TXN_8_830_5b3cac0a,53,Size building,Food,7176,Philip Hoffman,South Mary,3,646.17,2026-04-04T13:02:00.856633
+TXN_8_831_c0183250,53,Pass economic,Food,7029,Debra Francis,Davisfort,13,236.81,2026-01-04T04:42:54.176935
+TXN_8_832_acb40cdd,30,Agency president,Books,7740,John Gray,Danielchester,11,738.22,2026-02-25T13:23:05.851145
+TXN_8_833_c7a4db68,87,Away deal,Clothing,7608,Jason Lee,Johnstad,17,628.87,2026-03-28T11:37:25.273400
+TXN_8_834_c4de105b,9,Themselves firm,Sports,3785,Andrew Bryan,Kennedyside,3,913.9,2026-03-15T07:06:47.726198
+TXN_8_835_33140a59,19,Create country,Electronics,2951,John Stevenson,Arthurstad,16,237.13,2026-03-31T16:48:40.273475
+TXN_8_836_7f7c857d,45,Any heavy,Food,8499,Darren Dougherty MD,Veronicahaven,17,973.5,2026-05-02T00:23:29.339582
+TXN_8_837_8edb5f8c,5,Price current,Clothing,1566,Peter Carter,Port Lauriemouth,7,426.65,2026-01-29T19:24:43.236397
+TXN_8_838_d037e96a,82,Policy main,Food,3194,Craig Freeman,Blakeburgh,13,338.7,2026-01-13T06:59:35.534525
+TXN_8_839_2d1dc179,54,Just song,Food,8860,Mr. Daniel Hodge,South Ericfurt,13,209.42,2026-04-28T05:59:46.254866
+TXN_8_840_6494f9f5,99,Trip maybe,Electronics,6423,Chloe Burns,West Stephanie,14,823.34,2026-05-04T22:28:35.503528
+TXN_8_841_0d7c4ac2,83,Together base,Clothing,1741,Courtney Garza,Craigton,7,416.99,2026-03-10T13:53:05.423528
+TXN_8_842_22dcb30f,20,Sister under,Electronics,6902,Kathryn Ochoa,Lake Davidtown,16,160.32,2026-04-08T15:34:58.590481
+TXN_8_843_8075c6a5,1,Ok ask,Sports,5404,Nicholas Bowman,West Michelleton,15,720.63,2026-01-28T01:09:38.726190
+TXN_8_844_8bb7f96b,65,Since suddenly,Electronics,2738,Adriana Caldwell,Lake Lee,6,60.35,2026-04-25T19:47:11.710531
+TXN_8_845_b5c88c1a,92,Woman team,Electronics,8156,Christopher Welch,New Scott,20,366.94,2026-05-02T12:00:35.670897
+TXN_8_846_683619ed,25,Mind once,Books,3525,Debbie Walters,Hallshire,13,541.83,2026-02-25T03:40:48.529244
+TXN_8_847_57f8289a,49,Of bed,Food,6446,Jonathan Hicks,Lake Marissaberg,5,115.93,2026-02-05T08:37:30.204432
+TXN_8_848_b57565f9,96,List stuff,Sports,3607,Erica Valencia,Waltonchester,7,585.66,2026-04-28T23:54:19.600019
+TXN_8_849_6cf9b3c4,21,Plan always,Food,3476,Robert Scott,East Williamtown,11,65.55,2026-03-27T12:33:27.077724
+TXN_8_850_180ea56f,49,Grow else,Food,5149,Daniel Manning,South Eric,13,483.44,2026-04-09T19:12:26.531766
+TXN_8_851_72a4005f,94,Seat environmental,Food,7574,Amber Matthews,Johnfurt,1,987.51,2026-02-13T22:08:49.113730
+TXN_8_852_ea5e2537,71,Material care,Electronics,8484,Beth Short,South Alan,11,520.16,2026-01-22T01:26:40.615768
+TXN_8_853_e083de3b,27,Local organization,Books,3417,Kathryn Peters,South Patriciahaven,6,669.45,2026-01-13T01:45:32.572668
+TXN_8_854_0450ab6e,46,Economy people,Books,2470,Curtis Brown,New James,8,938.6,2026-01-25T09:22:44.305767
+TXN_8_855_f8b6d2f7,71,News ahead,Food,3272,Sherri Burns,Tonyamouth,4,336.36,2026-05-05T01:12:29.870721
+TXN_8_856_ac21f317,1,Edge these,Food,6339,Zachary Kennedy,Johnsonside,3,322.98,2026-02-15T01:17:39.961669
+TXN_8_857_12d255ff,6,Sister exist,Electronics,8306,Jeff Smith,Jamesview,10,253.83,2026-03-06T04:37:27.364579
+TXN_8_858_6e9b400d,27,Inside which,Food,1708,Christine Miller,West Garyburgh,5,595.44,2026-03-01T06:09:46.062421
+TXN_8_859_481c6bb5,35,Bag best,Electronics,2436,Samantha Calderon,Kimberlyshire,4,710.76,2026-02-05T05:19:26.093851
+TXN_8_860_be979464,72,Election experience,Books,1055,Anne Floyd,Port Ashley,2,515.72,2026-03-25T07:58:23.621695
+TXN_8_861_e2331e29,53,Brother cost,Sports,5868,Matthew Cook,Wilsonmouth,1,477.25,2026-04-21T03:28:49.169131
+TXN_8_862_26f9785e,61,Section decision,Sports,9668,Matthew Contreras,East John,19,585.13,2026-01-26T18:30:37.949607
+TXN_8_863_d594afa5,65,Boy everyone,Clothing,5529,Christopher Williams,West Krystal,17,156.79,2026-03-31T17:14:51.020212
+TXN_8_864_26466c5c,30,Pick thus,Books,6867,Ronald Whitaker,Woodfurt,6,516.54,2026-04-03T05:35:52.737670
+TXN_8_865_3531d61d,70,Close camera,Sports,1915,Scott Pace,Lake Sheilastad,1,512.57,2026-04-11T03:49:13.934488
+TXN_8_866_33170755,79,Threat become,Sports,1200,Gail Phillips,Owensville,11,817.76,2026-03-16T17:07:08.337627
+TXN_8_867_e286fd28,96,Cause water,Books,3481,Latoya Ibarra,West Stephanie,19,663.95,2026-04-19T23:29:03.601808
+TXN_8_868_5d33ce21,17,Pull smile,Sports,9293,Jacqueline Smith,Washingtonberg,20,106.62,2026-01-06T12:47:51.714739
+TXN_8_869_d70ed51b,78,Avoid evening,Clothing,9620,Brian Gonzalez,South Michaelville,16,220.14,2026-02-18T13:15:17.382105
+TXN_8_870_ad01cf3c,99,Nice seat,Food,1462,Shelly Thomas,East Mistyfort,8,479.2,2026-02-21T14:39:43.826091
+TXN_8_871_d211e1f1,48,Investment goal,Clothing,5369,Phillip Smith,Melissamouth,18,535.27,2026-01-05T10:03:43.637152
+TXN_8_872_db7edf3b,71,Argue kid,Books,2431,Mark Hartman,Lake Shannonborough,11,56.52,2026-04-23T22:59:05.828568
+TXN_8_873_38ccf9f2,78,Baby herself,Sports,8999,Veronica Douglas,Davidmouth,15,113.18,2026-02-21T07:50:54.835421
+TXN_8_874_62a3d836,86,Different often,Food,7345,Kaitlin Phillips,Lynchberg,11,52.84,2026-02-18T01:15:15.201048
+TXN_8_875_7bcfae57,28,Analysis effect,Books,8945,Scott Smith,Port Jon,14,584.53,2026-03-30T03:10:36.989651
+TXN_8_876_52962a84,79,Wide class,Clothing,2061,Thomas Long,Kaufmanborough,4,105.91,2026-01-04T04:31:25.907424
+TXN_8_877_24a2ac90,33,Different debate,Electronics,3972,Angela Parker,Kelseyborough,4,400.48,2026-03-21T13:50:13.001985
+TXN_8_878_8a622386,27,Beyond mouth,Sports,9776,Heidi Acosta,Wrighttown,2,199.5,2026-02-17T06:30:55.294563
+TXN_8_879_f84f0356,39,Old player,Electronics,9965,Natalie Robles,Ashleeside,13,650.1,2026-01-08T07:08:19.280879
+TXN_8_880_e8b90f7d,100,Along voice,Food,9295,Samantha Sullivan,Wattsville,14,868.74,2026-01-06T02:53:11.565297
+TXN_8_881_05c39bd2,76,Glass business,Sports,3965,April Graham,Brendafurt,5,243.87,2026-03-10T19:47:32.019385
+TXN_8_882_270e8990,93,Show art,Sports,1703,Amy Sullivan,West Sonyafort,8,90.35,2026-01-27T20:02:52.552878
+TXN_8_883_2ca49ce3,48,Leg relate,Electronics,6784,Stephen Munoz,Rodgerschester,10,332.97,2026-05-07T03:29:32.372131
+TXN_8_884_8bef670d,100,Reality area,Food,8743,Felicia Atkins,Laurenhaven,5,49.01,2026-01-01T21:07:00.936295
+TXN_8_885_d5241c7f,15,Traditional mean,Clothing,8511,Mitchell Hall,Patrickmouth,18,365.02,2026-01-23T11:30:14.114010
+TXN_8_886_30d02590,29,Participant skill,Clothing,8535,Teresa Jordan,Destinyland,4,473.81,2026-04-25T18:35:33.990611
+TXN_8_887_e7135a4c,1,Reach very,Food,5307,William Gallegos,South Jessicashire,1,967.94,2026-02-28T06:02:15.830447
+TXN_8_888_da4c066a,72,Relate mean,Food,5170,Robert Stone,East Elaine,4,730.76,2026-05-03T21:51:37.579154
+TXN_8_889_3c9c0554,23,Simple size,Electronics,4487,Stephen Alvarado,New Williamburgh,17,33.77,2026-04-12T18:50:44.232624
+TXN_8_890_269670a7,5,East senior,Books,9930,Jeremy Clark,South Stephen,1,395.62,2026-02-24T22:23:05.135079
+TXN_8_891_4cda8c36,13,Right one,Books,6051,Brandy Robinson,Hicksstad,4,35.83,2026-02-28T07:09:45.346342
+TXN_8_892_ccb97778,3,Peace deep,Clothing,2037,Carl Shaffer,Lake Cynthiafort,12,180.6,2026-03-29T17:49:08.980561
+TXN_8_893_1cbf7d25,75,Particular environmental,Electronics,5038,Gina Stone,Michelleberg,9,772.68,2026-01-06T11:40:44.185428
+TXN_8_894_428768a8,16,Cover sometimes,Food,3426,Michelle Delgado,Lake Justin,17,584.6,2026-04-04T11:01:04.985371
+TXN_8_895_01ab50ae,34,Huge position,Electronics,6639,Katie Sawyer,Brittanyville,10,957.88,2026-04-12T17:13:51.819612
+TXN_8_896_f7fac63e,23,Once three,Food,9703,Steven Martinez,Wolfberg,13,950.93,2026-02-01T05:11:37.296380
+TXN_8_897_352e16fa,64,Plan edge,Sports,8532,Andrew Cole,New Juliehaven,6,511.72,2026-03-14T05:13:19.264590
+TXN_8_898_7046a330,75,Party amount,Books,8146,Michael Adkins,Aliciaview,2,488.89,2026-01-23T14:52:35.109422
+TXN_8_899_7cbea24b,69,Event ready,Books,6407,Anthony Peterson,Williamshaven,15,486.3,2026-05-04T15:49:47.408806
+TXN_8_900_1b07b57b,49,Popular weight,Books,3951,Richard Hopkins,Port Ryan,3,175.56,2026-01-30T14:45:44.520395
+TXN_8_901_b1779082,75,Because there,Books,7649,Christopher Anderson,West Garyland,18,65.01,2026-04-13T06:10:34.947353
+TXN_8_902_a4d6d1f9,79,Area trouble,Sports,6502,Tyler Cruz,North John,3,467.92,2026-03-15T08:05:01.580930
+TXN_8_903_29a46398,100,Month girl,Electronics,1125,Nicole Clark,North Sarah,7,189.65,2026-02-07T20:13:51.683303
+TXN_8_904_e84f468e,95,Necessary view,Books,8755,Julie Case,Daviston,2,609.81,2026-04-28T05:20:02.499846
+TXN_8_905_cd755042,1,Sport across,Food,1825,Shelby Salas,New Dwayne,19,514.13,2026-02-21T09:25:23.750669
+TXN_8_906_237a70b4,3,Beyond discover,Books,1360,Christian Robbins,Matthewsstad,15,181.75,2026-01-24T16:02:09.745863
+TXN_8_907_3543507d,41,During base,Sports,3712,Karla Bennett,East Heather,9,494.92,2026-03-08T09:28:36.501047
+TXN_8_908_2577542c,14,Interest several,Books,6160,Nathan Lynch,Port Stacymouth,1,474.58,2026-04-21T09:40:44.527209
+TXN_8_909_273f490c,55,Become computer,Clothing,7706,Jonathan Murray,Sarahfurt,16,905.11,2026-04-14T04:53:00.748636
+TXN_8_910_90235a8d,38,Story president,Books,8362,Vanessa Kelley,New Sheribury,9,394.55,2026-02-24T03:36:45.335717
+TXN_8_911_ef10cd3a,55,Agree let,Sports,9160,Justin Flores,East Jamesville,14,207.47,2026-04-16T11:26:45.713657
+TXN_8_912_a1c50e9e,14,Its play,Electronics,1114,Derek Mccall,Jensenborough,7,162.96,2026-04-11T09:50:24.919445
+TXN_8_913_0f279290,5,My none,Books,7069,Jonathan Miles,Davidhaven,5,726.51,2026-03-29T20:09:10.578681
+TXN_8_914_290ac959,56,Item positive,Books,8657,Michelle White,Martinside,11,856.31,2026-02-14T05:38:49.195623
+TXN_8_915_5471f337,18,Unit sound,Books,2787,Casey Thomas,Ingramborough,8,308.54,2026-04-11T11:38:29.240613
+TXN_8_916_a25e7d7b,3,Decide remain,Electronics,4095,Blake Lawrence,West Katrinamouth,18,155.54,2026-03-11T02:35:49.618506
+TXN_8_917_07c00db4,70,Program study,Electronics,2049,Stephen Cook,West Felicia,6,677.1,2026-05-06T14:02:54.556340
+TXN_8_918_032a79ed,9,Capital difficult,Books,9517,James Levine,Tracyville,2,362.08,2026-01-26T05:02:03.284209
+TXN_8_919_57143e8f,59,Drop face,Food,3015,Natasha Roth,Port Alyssa,4,544.09,2026-01-09T21:23:41.975945
+TXN_8_920_241a9d99,80,Entire time,Books,6773,Henry Clarke,Craigmouth,16,862.31,2026-02-18T02:27:02.535555
+TXN_8_921_68ffb846,51,Recognize fine,Books,8727,Jordan Harrington,Spencerview,9,691.35,2026-01-18T03:04:35.374045
+TXN_8_922_7fa38147,29,Radio enjoy,Food,9371,Christopher Wright,North Jonathanbury,2,594.59,2026-05-06T04:45:31.999211
+TXN_8_923_94f5952e,49,Season reach,Food,6159,Nancy Drake,Robertshire,19,181.12,2026-05-03T20:57:58.147824
+TXN_8_924_9191d6e5,24,Natural gas,Sports,5686,Joseph Mack,Lake Brittanystad,14,226.49,2026-01-12T02:43:31.472873
+TXN_8_925_c64970b9,62,Score appear,Clothing,1725,Jose Adams,Lake Rita,3,845.07,2026-01-02T17:02:25.719657
+TXN_8_926_b3526f15,6,At these,Electronics,7679,Richard Gregory,Kellychester,16,318.04,2026-02-06T00:59:37.599473
+TXN_8_927_1781b704,21,Than industry,Clothing,3976,Katherine Lang,South Dawn,7,83.63,2026-01-25T06:45:34.069225
+TXN_8_928_985785fa,1,Top better,Food,6191,Eric Ford,South Curtis,8,339.99,2026-01-29T15:21:28.131897
+TXN_8_929_05b61007,8,Wall soon,Sports,5228,Lisa Parker,Port Regina,12,379.54,2026-04-08T13:17:01.484003
+TXN_8_930_a738fd88,54,War capital,Food,4296,Jon Williams,North Davidside,12,438.83,2026-02-06T19:59:59.664028
+TXN_8_931_43c4bbea,98,While employee,Sports,1836,Matthew Green DDS,Thomasport,1,320.61,2026-04-28T03:32:04.450588
+TXN_8_932_a8f74e36,7,Tv entire,Food,8149,Ricardo Cobb,Kellystad,14,134.83,2026-03-06T03:37:36.585048
+TXN_8_933_e4ca0189,64,Themselves place,Electronics,3929,William Hess,New Debra,18,911.53,2026-04-28T00:13:28.334689
+TXN_8_934_9c8357b9,40,Upon bill,Clothing,2551,Diana Simpson,North Emily,13,907.91,2026-01-26T04:00:55.542576
+TXN_8_935_0fb96ff0,56,Price rather,Clothing,2242,Paige Kerr,New Henryburgh,1,875.46,2026-01-27T21:04:34.772787
+TXN_8_936_cc8d2f58,17,Quite put,Books,1591,Brooke Abbott,West Crystal,16,993.65,2026-02-03T20:36:03.344798
+TXN_8_937_def15561,32,Especially behind,Sports,3223,Nicholas Weaver,Whiteburgh,5,26.38,2026-01-23T08:10:20.819882
+TXN_8_938_82300028,1,Too school,Clothing,7381,Michele Giles,West Shelleystad,20,590.51,2026-01-28T12:55:07.726586
+TXN_8_939_e1de544a,29,Occur myself,Sports,8608,Anna Kelly,Hicksberg,11,301.09,2026-01-01T01:48:42.171978
+TXN_8_940_0fd2d7c4,37,Turn exist,Food,2959,Christina Nguyen,Amyfort,9,474.14,2026-02-23T15:26:06.494076
+TXN_8_941_5f94fe88,49,See more,Food,4726,Richard Reed,Joycechester,16,151.35,2026-01-31T23:44:39.774762
+TXN_8_942_d402bffb,76,Executive company,Sports,2614,Gregory Todd,Stephensview,7,770.2,2026-04-05T07:45:12.150485
+TXN_8_943_a1e7345d,41,Back he,Electronics,2724,Lisa Salas,Paulbury,19,79.55,2026-01-14T06:43:18.617348
+TXN_8_944_54ce5d84,92,Learn peace,Food,3920,Amy Thompson,Morrisview,6,481.84,2026-05-01T21:14:47.451369
+TXN_8_945_d39c8ac5,78,Entire push,Clothing,8348,Michelle Palmer,East Bethanyville,2,273.91,2026-02-11T21:40:16.884364
+TXN_8_946_dc795e4b,93,Someone resource,Books,6315,Jessica Ramirez,Floresview,11,581.85,2026-02-06T12:00:38.250537
+TXN_8_947_ff5e06e8,40,Affect third,Food,7157,Kathleen White,North Sarah,15,70.59,2026-01-21T23:08:51.920822
+TXN_8_948_ab2ad991,33,Success edge,Electronics,2179,Ashley Smith,West Annefurt,6,762.6,2026-01-29T13:45:41.802494
+TXN_8_949_2ca3375c,2,We growth,Books,5618,Tyrone Williams,South Jeffrey,13,672.9,2026-02-15T17:28:29.328142
+TXN_8_950_babc31a2,29,Question space,Sports,5324,Michael Carlson,Smithshire,20,540.65,2026-02-23T02:43:48.019746
+TXN_8_951_1a66a083,59,Beat respond,Clothing,4895,Juan Steele,Jameshaven,1,884.9,2026-02-07T19:23:46.732420
+TXN_8_952_3911d446,88,Seven data,Food,7498,Nicole Jimenez,Benjaminfort,14,454.36,2026-01-02T03:01:56.618915
+TXN_8_953_c0b193c1,87,Authority often,Electronics,6675,Brittany Fox,Lake Williamfort,6,974.75,2026-02-17T04:04:22.220160
+TXN_8_954_487c4c3a,18,Media big,Clothing,7906,David Chandler,Patrickstad,2,333.65,2026-03-25T09:39:34.732919
+TXN_8_955_b40c9c5e,35,Bank bring,Clothing,1631,Dominique Barton,Davidside,4,592.58,2026-04-29T13:52:15.532098
+TXN_8_956_6a0f427f,2,Quickly radio,Food,2239,Kaitlin Stanton,Martinezchester,2,432.79,2026-04-25T13:28:57.537792
+TXN_8_957_e73c4b57,48,Day bad,Clothing,7738,Clinton Torres,Port Vanessa,17,759.66,2026-02-13T03:06:32.909687
+TXN_8_958_65f6ab1d,37,Performance answer,Electronics,4784,Brandy Chapman,Randyshire,20,860.91,2026-04-28T10:47:28.563304
+TXN_8_959_c84e7dea,74,Long role,Clothing,2885,Christopher Johnson,West Carolynmouth,19,69.41,2026-02-08T19:43:55.629321
+TXN_8_960_717e459f,65,Site into,Clothing,6529,Lisa Johnson,Port Jamesburgh,3,729.02,2026-03-16T20:40:04.137114
+TXN_8_961_fff9cbc3,56,Report moment,Food,8861,Deborah Ortiz,Vegatown,8,534.28,2026-03-04T21:20:18.169900
+TXN_8_962_9f331d59,78,Like green,Sports,5701,Thomas Horton,Jessicaborough,19,871.09,2026-04-18T05:37:12.774147
+TXN_8_963_9d4d1eaa,33,Event find,Electronics,6321,John Allen,Lake Elizabeth,6,999.85,2026-02-18T19:24:40.101472
+TXN_8_964_0af4fea6,42,Magazine five,Electronics,9463,Jessica Pearson,Lake Andrewburgh,17,120.2,2026-01-25T11:39:57.056485
+TXN_8_965_1b0e4dbf,87,Effect political,Books,3132,Nicole Combs,Isabelborough,3,411.75,2026-03-01T00:06:44.690326
+TXN_8_966_0e43ff2a,37,Tough before,Books,6220,Philip Cross,Alicefort,8,700.08,2026-04-20T05:11:44.908177
+TXN_8_967_5720a8a0,92,The whole,Electronics,6757,Lori Moses,Annahaven,13,931.66,2026-03-02T08:07:52.817308
+TXN_8_968_a61d24c2,71,Six fact,Sports,5083,Rebecca Stewart,South Crystal,14,94.9,2026-01-09T23:06:07.681606
+TXN_8_969_4f6d6b50,13,Son civil,Clothing,7174,Elizabeth Horton,Christophershire,20,223.37,2026-04-22T11:08:13.501585
+TXN_8_970_fba8f877,97,Quickly Congress,Sports,8576,Brenda Watson,North Robinstad,17,398.44,2026-04-04T01:25:39.796141
+TXN_8_971_00182b36,18,School still,Books,4065,Troy Kim,Lake Courtneybury,16,304.68,2026-02-17T13:37:09.211397
+TXN_8_972_3aea9e98,6,Recently threat,Electronics,5062,Allison Livingston,Sarahfort,3,171.72,2026-03-08T20:21:25.371241
+TXN_8_973_f4a7e6ed,23,Nothing business,Sports,8106,Theresa Cole,Derrickfort,5,957.62,2026-02-13T16:05:49.509602
+TXN_8_974_f36a81f2,55,Central decide,Clothing,4382,Kevin Cantrell,Smithmouth,19,790.02,2026-01-21T20:39:18.236281
+TXN_8_975_13feb907,64,Prevent who,Clothing,4242,Laura Black,Tyroneville,10,927.61,2026-04-08T06:52:33.481841
+TXN_8_976_af685198,54,Push compare,Sports,9952,Matthew Page,West Jessicastad,10,422.44,2026-04-20T07:33:36.818656
+TXN_8_977_e3a65034,76,More accept,Sports,7404,Yvette Murphy,Terriview,2,413.26,2026-01-26T16:27:18.110014
+TXN_8_978_f271accb,55,Time seven,Sports,2453,Jacob Williams,Lake Thomashaven,17,377.15,2026-01-25T12:24:53.256376
+TXN_8_979_98a7ca7a,90,Pretty society,Electronics,1600,Travis Joseph,Webbmouth,13,802.01,2026-03-10T04:11:59.681587
+TXN_8_980_02f65483,1,Drop during,Food,4685,Richard Wolfe,New Brianmouth,4,591.94,2026-03-14T01:58:29.296172
+TXN_8_981_9b225401,16,Later capital,Books,1802,Jordan Morrow,West Andrewburgh,18,302.24,2026-01-18T07:23:22.526879
+TXN_8_982_0cbad24a,31,City lot,Books,3306,Robert Kelley,Lake Amber,19,981.43,2026-02-18T06:57:44.343218
+TXN_8_983_4d47cb35,62,Live reality,Electronics,1613,Patricia Gill,South Lisa,18,835.35,2026-01-31T01:59:10.911079
+TXN_8_984_f8add8fb,62,Participant catch,Food,2428,Julie Cross,Parkershire,8,361.22,2026-01-14T16:31:23.580696
+TXN_8_985_bc3e7dc9,25,Long cut,Food,4441,Jose Matthews,Port Madeline,6,572.53,2026-05-07T19:16:02.847553
+TXN_8_986_65950a47,35,Discover own,Books,3482,Valerie Bennett,Johnsonfort,11,564.28,2026-03-19T21:06:24.889175
+TXN_8_987_4734ac76,75,Provide mother,Electronics,8619,Kathleen Mendoza,Butlerton,5,617.87,2026-04-24T06:41:45.214008
+TXN_8_988_ce7cbc5e,6,Nearly threat,Clothing,9389,Susan Blevins,Daniellebury,2,239.21,2026-01-12T21:52:49.446028
+TXN_8_989_57a109b3,97,He worry,Books,1492,Mary Leblanc,Butlerview,15,322.04,2026-04-14T19:27:00.590930
+TXN_8_990_e96f14cc,32,Determine positive,Electronics,7664,Sean Perkins,West Courtneyville,7,655.66,2026-03-30T07:41:39.272487
+TXN_8_991_f94b762b,76,Purpose carry,Sports,4738,Nicole Yang,Danielchester,16,393.49,2026-03-16T22:10:17.481705
+TXN_8_992_dfdfa5f9,59,Few chair,Sports,2956,Stephanie Taylor,Longville,18,500.29,2026-03-30T03:34:38.119920
+TXN_8_993_9f2d823b,68,Something be,Clothing,4831,Monique Bell,New Mary,16,116.8,2026-04-27T19:15:13.218607
+TXN_8_994_5128679c,98,Sure manager,Food,5202,Shawn Martinez,Lisaberg,1,699.61,2026-01-27T13:54:50.103834
+TXN_8_995_e7d7f082,49,Figure cup,Electronics,2792,Kendra Haley,Blankenshipview,18,627.96,2026-01-26T22:47:34.482694
+TXN_8_996_03a2c2be,93,Already price,Sports,4260,Lori Strickland,South Douglas,2,212.1,2026-02-09T16:17:18.236089
+TXN_8_997_7f56c154,32,High job,Sports,7570,Jerry Davis,West Sethton,4,218.19,2026-05-06T01:49:34.693709
+TXN_8_998_deb63b99,65,Both view,Books,2233,Aaron Rodriguez,South Kimberlyberg,3,91.81,2026-02-10T01:32:36.182856
+TXN_8_999_1ca2c2ef,64,Discover few,Books,6345,Donald Pena,Brookeside,17,98.97,2026-01-25T01:42:17.458354

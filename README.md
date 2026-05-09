@@ -1,37 +1,118 @@
-# BigDataFlink
-Анализ больших данных - лабораторная работа №3 - Streaming processing с помощью Flink
+# Лабораторная работа №3: Streaming processing с помощью Flink
 
-Одним из самых популярных фреймворков для работы со streaming processing является Apache Flink. Apache Flink - мощный фреймворк, который предлагает широкий набор функциональности для простого написания streaming processing.
+## Структура репозитория
 
-Что необходимо сделать? 
+BigDataFlink/
+├── data/ # Исходные данные (10 CSV файлов по 1000 строк)
+├── screenshots/ # Скриншоты результатов
+│ ├── screenshot1_count.jpg # 10000 записей
+│ ├── screenshot2_data.jpg # Пример данных
+│ ├── screenshot3_categories.jpg # Статистика по категориям
+│ └── screenshot4_top10.jpg # Топ-10 покупок
+├── docker-compose.yml # Docker Compose с PostgreSQL, Kafka, Flink
+├── producer/
+│ ├── Dockerfile # Docker образ для producer
+│ └── producer.py # Отправка CSV в Kafka (10 000 сообщений)
+├── flink-job/
+│ ├── pom.xml # Maven зависимости
+│ └── src/main/java/com/flink/
+│ ├── SaleEvent.java # Модель данных
+│ └── FlinkStarTransformer.java # Flink задача (streaming)
+├── init-db/
+│ └── init.sql # Создание таблицы fact_sales
+└── README.md 
 
-Необходимо реализовать потоковую обработку данных с помощью Flink, который читает топик Kafka, трансформирует данные в режиме streaming в модель звезда и пишет результат в PostgreSQL. Данные в Kafka-топиках хранятся в формате json. Данные в топик kafka нужно отправлять самостоятельно, эмулируя источник данных.
+## Выполненные требования
 
-Какие данные отправляются в Kafka?
- - Каждое сообщение в Kafka-топике - это строчка из csv файлов, преобразованная в формат json.
+### 1. Исходные данные
+Создано 10 CSV файлов (mock_data1.csv - mock_data10.csv)
+Каждый файл содержит 1000 строк с данными о продажах
+Всего сгенерировано 10 000 записей
 
-Какие данные отправляются в PostgreSQL?
- - Трансформированные данные в модель данных звезда.
+### 2. Docker Compose
+Файл docker-compose.yml включает:
+PostgreSQL (база данных star_db)
+Zookeeper (координация Kafka)
+Kafka (брокер сообщений, топик input-topic)
+Flink (JobManager + TaskManager)
+Data Producer (Python скрипт для отправки данных в Kafka)
 
-![Лабораторная работа №3](https://github.com/user-attachments/assets/d3c1544d-3fe6-4c15-b673-9aa5d27dbd76)
+### 3. Код Apache Flink
+SaleEvent.java - класс с полями: transaction_id, product_id, product_name, category, customer_id, customer_name, city, store_id, sale_amount, sale_timestamp
+FlinkStarTransformer.java - потоковая обработка:
+Чтение из Kafka (input-topic)
+Десериализация JSON
+Запись в PostgreSQL (fact_sales)
 
+###  4. Инструкция по запуску
 
-Алгоритм:
+### Шаг 1: Запуск всех сервисов
+```bash
+docker-compose up --build
+Шаг 2: Проверка работы producer
 
-1. Клонируете к себе этот репозиторий.
-2. Устанавливаете инструмент для работы с запросами SQL (рекомендую DBeaver).
-3. Устанавливаете базу данных PostgreSQL (рекомендую установку через docker).
-4. Устанавливаете Apache Flink (рекомендую установку через Docker).
-5. Устанавливаете Apache Kafka (рекомендую установку через Docker).
-6. Скачиваете файлы с исходными данными mock_data( * ).csv, где ( * ) номера файлов. Всего 10 файлов, каждый по 1000 строк.
-7. Реализуете приложение, которое каждую строчку из исходных csv-файлов преобразует в json и отправляет в виде сообщения в Kafka-топик.
-8. Реализуете приложение на Flink, которое читает Kafka-топик, преобразует данные в модель звезда и сохраняет в PostgreSQL в режиме streaming.
-9. Проверяете конечные данные в PostgreSQL.
-10. Отправляете работу на проверку лаборантам.
+В логах должно появиться:
 
-Что должно быть результатом работы?
+text
+data-producer |  Done! Sent 10000 messages to Kafka topic 'input-topic'
+Шаг 3: Запуск Flink задачи (в новом терминале)
 
-1. Репозиторий, в котором есть исходные данные mock_data().csv, где () номера файлов. Всего 10 файлов, каждый по 1000 строк.
-2. Файл docker-compose.yml с установкой PostgreSQL, Flink, Kafka и запуском приложения, которое из файлов mock_data(*).csv создает сообщения json в Kafka.
-3. Инструкция, как запускать Flink-джобу и приложение для отправки данных в Kafka для проверки лабораторной работы.
-4. Код Apache Flink для трансформации данных в режиме streaming.
+bash
+docker exec -it flink-jobmanager bash
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-arm64
+export PATH=$JAVA_HOME/bin:$PATH
+cd /tmp/flink-job
+mvn clean package
+flink run -c com.flink.FlinkStarTransformer target/flink-star-transformer-1.0.jar
+Шаг 4: Проверка результата в PostgreSQL
+
+bash
+docker exec -it postgres_db psql -U flink_user -d star_db -c "SELECT COUNT(*) FROM fact_sales;"
+Результаты выполнения
+
+Скриншот 1: Общее количество записей (10 000)
+
+screenshots/screenshot1_count.jpg
+
+Скриншот 2: Пример данных из fact_sales
+
+screenshots/screenshot2_data.jpg
+
+Скриншот 3: Статистика по категориям
+
+screenshots/screenshot3_categories.jpg
+
+Скриншот 4: Топ-10 самых дорогих покупок
+
+screenshots/screenshot4_top10.jpg
+
+Анализ полученных данных
+
+Категория	Количество продаж	Общая выручка
+Clothing	2 036	1 045 724.10
+Electronics	1 955	1 014 141.24
+Books	2 001	1 004 889.24
+Food	2 019	998 428.82
+Sports	1 989	995 770.61
+Выводы:
+
+Все 10 000 записей успешно обработаны
+Flink корректно прочитал данные из Kafka
+Данные преобразованы в модель "звезда" и записаны в PostgreSQL
+Наибольшая выручка у категории "Clothing"
+
+Заключение
+
+В ходе выполнения лабораторной работы было реализовано:
+
+Читает 10 CSV файлов (10 000 строк) и отправляет их в Kafka
+Flink streaming задача, которая читает из Kafka, преобразует данные и сохраняет в PostgreSQL
+Docker Compose конфигурация для запуска всех сервисов
+Полная инструкция по запуску и проверке работы
+Все 10 000 записей успешно обработаны и загружены в базу данных.
+Проверка результатов
+
+bash
+docker exec -it postgres_db psql -U flink_user -d star_db -c "SELECT COUNT(*) FROM fact_sales;"
+# Ожидаемый результат: 10000
+
