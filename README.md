@@ -68,6 +68,7 @@ flink run -c com.flink.FlinkStarTransformer target/flink-star-transformer-1.0.ja
 
 bash
 docker exec -it postgres_db psql -U flink_user -d star_db -c "SELECT COUNT(*) FROM fact_sales;"
+```
 Результаты выполнения
 
 Скриншот 1: Общее количество записей (10 000)
