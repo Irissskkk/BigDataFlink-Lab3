@@ -66,7 +66,7 @@ mvn clean package
 flink run -c com.flink.FlinkStarTransformer target/flink-star-transformer-1.0.jar
 Шаг 4: Проверка результата в PostgreSQL
 
-```bash
+bash
 docker exec -it postgres_db psql -U flink_user -d star_db -c "SELECT COUNT(*) FROM fact_sales;"
 Результаты выполнения
 
